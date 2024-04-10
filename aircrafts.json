@@ -1,0 +1,990 @@
+{
+  "data": [
+      {
+    "Model": "Airbus A220 100",
+    "Seats": 115,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "2.8 kg/km (10.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.07 L/100 km (76.7 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A220 300",
+    "Seats": 140,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "3.10 kg/km (11.01 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.75 L/100 km (85.6 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A220-100",
+    "Seats": 125,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.57 kg/km (9.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.57 L/100 km (92 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A220-300",
+    "Seats": 160,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.85 kg/km (10.11 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.23 L/100 km (105 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A319neo",
+    "Seats": 144,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "3.37 kg/km (11.94 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.92 L/100 km (80.6 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A319neo",
+    "Seats": 124,
+    "Sector": "660 nmi (1,220 km)",
+    "Fuel_burn": "2.82 kg/km (10 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.82 L/100 km (83.5 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A320neo",
+    "Seats": 154,
+    "Sector": "660 nmi (1,220 km)",
+    "Fuel_burn": "2.79 kg/km (9.9 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.25 L/100 km (104.7 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A321neo",
+    "Seats": 192,
+    "Sector": "660 nmi (1,220 km)",
+    "Fuel_burn": "3.30 kg/km (11.7 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.19 L/100 km (107.4 mpg‑US)"
+  },
+  {
+    "Model": "Antonov An-148",
+    "Seats": 89,
+    "Sector": "684 nmi (1,267 km)",
+    "Fuel_burn": "2.89 kg/km (10.3 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.06 L/100 km (57.9 mpg‑US)"
+  },
+  {
+    "Model": "Antonov An-158",
+    "Seats": 99,
+    "Sector": "684 nmi (1,267 km)",
+    "Fuel_burn": "3 kg/km (11 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.79 L/100 km (62.1 mpg‑US)"
+  },
+  {
+    "Model": "ATR 42-600",
+    "Seats": 50,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "1.30 kg/km (4.6 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.27 L/100 km (72 mpg‑US)"
+  },
+  {
+    "Model": "ATR 72-600",
+    "Seats": 72,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "1.41 kg/km (5 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.46 L/100 km (96 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-300",
+    "Seats": 126,
+    "Sector": "507 nmi (939 km)",
+    "Fuel_burn": "3.49 kg/km (12.4 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.46 L/100 km (68 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-600",
+    "Seats": 110,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "3.16 kg/km (11.2 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.59 L/100 km (65.5 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-700",
+    "Seats": 126,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "3.21 kg/km (11.4 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.19 L/100 km (74 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX 7",
+    "Seats": 128,
+    "Sector": "660 nmi (1,220 km)",
+    "Fuel_burn": "2.85 kg/km (10.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.77 L/100 km (84.8 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX 7",
+    "Seats": 144,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "3.39 kg/km (12.01 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.93 L/100 km (80.2 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-800",
+    "Seats": 162,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "3.59 kg/km (12.7 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.77 L/100 km (85 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX 8",
+    "Seats": 166,
+    "Sector": "660 nmi (1,220 km)",
+    "Fuel_burn": "3.04 kg/km (10.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.28 L/100 km (103.2 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-900ER",
+    "Seats": 180,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "3.83 kg/km (13.6 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.66 L/100 km (88 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX 9",
+    "Seats": 180,
+    "Sector": "660 nmi (1,220 km)",
+    "Fuel_burn": "3.30 kg/km (11.7 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.28 L/100 km (103 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 757-200",
+    "Seats": 200,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "4.68 kg/km (16.61 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.91 L/100 km (80.7 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 757-300",
+    "Seats": 243,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "5.19 kg/km (18.41 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.66 L/100 km (88.4 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier CRJ100",
+    "Seats": 50,
+    "Sector": "577 nmi (1,069 km)",
+    "Fuel_burn": "1.87 kg/km (6.65 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.68 L/100 km (50.3 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier CRJ200",
+    "Seats": 50,
+    "Sector": "580 nmi (1,070 km)",
+    "Fuel_burn": "1.80 kg/km (6.39 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.49 L/100 km (52.4 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier CRJ700",
+    "Seats": 70,
+    "Sector": "574 nmi (1,063 km)",
+    "Fuel_burn": "2.45 kg/km (8.68 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.36 L/100 km (54 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier CRJ900",
+    "Seats": 88,
+    "Sector": "573 nmi (1,061 km)",
+    "Fuel_burn": "2.78 kg/km (9.88 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.94 L/100 km (59.7 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier CRJ1000",
+    "Seats": 100,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.66 kg/km (9.4 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.33 L/100 km (71 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier Dash 8 Q400",
+    "Seats": 74,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.31 kg/km (8.2 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.9 L/100 km (60 mpg‑US)"
+  },
+  {
+    "Model": "Bombardier Dash 8 Q400",
+    "Seats": 74,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "1.83 kg/km (6.5 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.09 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Dornier 328",
+    "Seats": 31,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "1.08 kg/km (3.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.35 L/100 km (54.1 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet E2-175",
+    "Seats": 88,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "2.44 kg/km (8.64 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.44 L/100 km (68.3 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet E2-190",
+    "Seats": 106,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.48 kg/km (8.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.93 L/100 km (80 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet E2-190",
+    "Seats": 106,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "2.83 kg/km (10.04 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.32 L/100 km (70.8 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet E2-195",
+    "Seats": 132,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.62 kg/km (9.3 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.5 L/100 km (94 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet E2-195",
+    "Seats": 132,
+    "Sector": "600 nmi (1,100 km)",
+    "Fuel_burn": "3.07 kg/km (10.91 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.90 L/100 km (81 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet-170",
+    "Seats": 80,
+    "Sector": "606 nmi (1,122 km)",
+    "Fuel_burn": "2.6 kg/km (9.3 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.08 L/100 km (57.7 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet-175",
+    "Seats": 88,
+    "Sector": "605 nmi (1,120 km)",
+    "Fuel_burn": "2.80 kg/km (9.95 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.97 L/100 km (59.3 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet-190",
+    "Seats": 114,
+    "Sector": "607 nmi (1,124 km)",
+    "Fuel_burn": "3.24 kg/km (11.48 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.54 L/100 km (66.5 mpg‑US)"
+  },
+  {
+    "Model": "Embraer E-Jet-195",
+    "Seats": 122,
+    "Sector": "607 nmi (1,124 km)",
+    "Fuel_burn": "3.21 kg/km (11.38 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.28 L/100 km (71.8 mpg‑US)"
+  },
+  {
+    "Model": "Embraer ERJ-135ER",
+    "Seats": 37,
+    "Sector": "596 nmi (1,104 km)",
+    "Fuel_burn": "1.44 kg/km (5.12 lb/mi)",
+    "Fuel_efficiency_per_seat": "4.86 L/100 km (48.4 mpg‑US)"
+  },
+  {
+    "Model": "Embraer ERJ-145ER",
+    "Seats": 50,
+    "Sector": "598 nmi (1,107 km)",
+    "Fuel_burn": "1.55 kg/km (5.49 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.86 L/100 km (61 mpg‑US)"
+  },
+  {
+    "Model": "Pilatus PC-12",
+    "Seats": 9,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "0.41 kg/km (1.5 lb/mi)",
+    "Fuel_efficiency_per_seat": "5.66 L/100 km (41.6 mpg‑US)"
+  },
+  {
+    "Model": "Saab 340",
+    "Seats": 31,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "0.95 kg/km (3.4 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.83 L/100 km (61.4 mpg‑US)"
+  },
+  {
+    "Model": "Saab 2000",
+    "Seats": 50,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "1.54 kg/km (5.5 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.85 L/100 km (61.1 mpg‑US)"
+  },
+  {
+    "Model": "Sukhoi SSJ100",
+    "Seats": 98,
+    "Sector": "500 nmi (930 km)",
+    "Fuel_burn": "2.81 kg/km (10.0 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.59 L/100 km (65.5 mpg‑US)"
+  },
+      {
+    "Model": "Airbus A220-100",
+    "First_flight": 2013,
+    "Seats": 125,
+    "Fuel_Burn": "2.28 kg/km (8.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.28 L/100 km (103 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A220-300",
+    "First_flight": 2015,
+    "Seats": 135,
+    "Fuel_Burn": "2.30 kg/km (8.17 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.13 L/100 km (110 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A220-300",
+    "First_flight": 2015,
+    "Seats": 150,
+    "Fuel_Burn": "2.42 kg/km (8.6 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.02 L/100 km (116 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A220-300",
+    "First_flight": 2015,
+    "Seats": 160,
+    "Fuel_Burn": "2.56 kg/km (9.08 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.00 L/100 km (118 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A319",
+    "First_flight": 1995,
+    "Seats": 124,
+    "Fuel_Burn": "2.93 kg/km (10.4 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.95 L/100 km (80 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A319neo",
+    "First_flight": 2015,
+    "Seats": 136,
+    "Fuel_Burn": "2.4 kg/km (8.6 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.22 L/100 km (106 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A320",
+    "First_flight": 1987,
+    "Seats": 150,
+    "Fuel_Burn": "3.13 kg/km (11.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.61 L/100 km (90 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A320neo",
+    "First_flight": 2016,
+    "Seats": 180,
+    "Fuel_Burn": "2.79 kg/km (9.9 lb/mi)",
+    "Fuel_efficiency_per_seat": "1.94 L/100 km (121 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A321-200",
+    "First_flight": 1996,
+    "Seats": 180,
+    "Fuel_Burn": "3.61 kg/km (12.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.50 L/100 km (94 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A321neo",
+    "First_flight": 2017,
+    "Seats": 220,
+    "Fuel_Burn": "3.47 kg/km (12.3 lb/mi)",
+    "Fuel_efficiency_per_seat": "1.98 L/100 km (119 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-200",
+    "First_flight": 1997,
+    "Seats": 293,
+    "Fuel_Burn": "5.6 kg/km (19.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.37 L/100 km (99 mpg‑US)"
+  },
+  {
+    "Model": "Antonov An-148 (1190 nmi)",
+    "First_flight": 2004,
+    "Seats": 89,
+    "Fuel_Burn": "2.75 kg/km (9.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.86 L/100 km (60.9 mpg‑US)"
+  },
+  {
+    "Model": "Antonov An-158 (1190 nmi)",
+    "First_flight": 2010,
+    "Seats": 99,
+    "Fuel_Burn": "2.83 kg/km (10.0 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.57 L/100 km (65.9 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-600",
+    "First_flight": 1998,
+    "Seats": 110,
+    "Fuel_Burn": "2.77 kg/km (9.8 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.15 L/100 km (75 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-700",
+    "First_flight": 1997,
+    "Seats": 126,
+    "Fuel_Burn": "2.82 kg/km (10.0 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.79 L/100 km (84 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-700",
+    "First_flight": 1997,
+    "Seats": 128,
+    "Fuel_Burn": "2.8 kg/km (9.9 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.71 L/100 km (87 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX-7",
+    "First_flight": 2017,
+    "Seats": 140,
+    "Fuel_Burn": "2.51 kg/km (8.91 lb/mi)",
+    "Fuel_efficiency_per_seat": "1.94 L/100 km (121 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-800",
+    "First_flight": 1997,
+    "Seats": 162,
+    "Fuel_Burn": "3.17 kg/km (11.2 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.44 L/100 km (96 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-800",
+    "First_flight": 1997,
+    "Seats": 160,
+    "Fuel_Burn": "3.45 kg/km (12.23 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.68 L/100 km (88 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-800W",
+    "First_flight": 1997,
+    "Seats": 162,
+    "Fuel_Burn": "3.18 kg/km (11.3 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.45 L/100 km (96 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX-8",
+    "First_flight": 2017,
+    "Seats": 162,
+    "Fuel_Burn": "2.71 kg/km (9.6 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.04 L/100 km (115 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-900ER",
+    "First_flight": 2006,
+    "Seats": 180,
+    "Fuel_Burn": "3.42 kg/km (12.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.38 L/100 km (99 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737-900ERW",
+    "First_flight": 2006,
+    "Seats": 180,
+    "Fuel_Burn": "3.42 kg/km (12.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.37 L/100 km (99 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX-9",
+    "First_flight": 2017,
+    "Seats": 180,
+    "Fuel_Burn": "2.91 kg/km (10.3 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.02 L/100 km (116 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 757-200",
+    "First_flight": 1982,
+    "Seats": 190,
+    "Fuel_Burn": "4.60 kg/km (16.33 lb/mi)",
+    "Fuel_efficiency_per_seat": "3.02 L/100 km (78 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 757-200",
+    "First_flight": 1982,
+    "Seats": 200,
+    "Fuel_Burn": "4.16 kg/km (14.76 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.59 L/100 km (90.8 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 757-300",
+    "First_flight": 1998,
+    "Seats": 243,
+    "Fuel_Burn": "4.68 kg/km (16.62 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.40 L/100 km (98 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-8",
+    "First_flight": 2009,
+    "Seats": 248,
+    "Fuel_Burn": "5.50 kg/km (19.5 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.77 L/100 km (85 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-9",
+    "First_flight": 2013,
+    "Seats": 296,
+    "Fuel_Burn": "5.67 kg/km (20.1 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.39 L/100 km (98 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-10",
+    "First_flight": 2017,
+    "Seats": 336,
+    "Fuel_Burn": "6.09 kg/km (21.6 lb/mi)",
+    "Fuel_efficiency_per_seat": "2.27 L/100 km (104 mpg‑US)"
+  },
+  {
+    "Model": "Quest Kodiak",
+    "First_flight": 2004,
+    "Seats": 9,
+    "Fuel_Burn": "0.71 kg/km (2.52 lb/mi)",
+    "Fuel_efficiency_per_seat": "6.28 L/100 km (37.5 mpg‑US)"
+  },  {
+    "Model": "Airbus A220-300",
+    "Seats": 150,
+    "Sector": "2,000 nmi (3,700 km)",
+    "Fuel_burn": "2.42 kg/km (8.59 lb/mi)",
+    "Fuel_per_seat": "2.02 L/100 km (116 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A320",
+    "Seats": 150,
+    "Sector": "2,151 nmi (3,984 km)",
+    "Fuel_burn": "2.91 kg/km (10.3 lb/mi)",
+    "Fuel_per_seat": "2.43 L/100 km (97 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A321LR",
+    "Seats": 154,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "2.99 kg/km (10.6 lb/mi)",
+    "Fuel_per_seat": "2.43 L/100 km (97 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-200",
+    "Seats": 241,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "6 kg/km (21 lb/mi)",
+    "Fuel_per_seat": "3.11 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-300",
+    "Seats": 262,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "6.25 kg/km (22.2 lb/mi)",
+    "Fuel_per_seat": "2.98 L/100 km (79 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-900",
+    "Seats": 310,
+    "Sector": "3,350 nmi (6,200 km)",
+    "Fuel_burn": "6 kg/km (21 lb/mi)",
+    "Fuel_per_seat": "2.42 L/100 km (97 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A340-300",
+    "Seats": 262,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "6.81 kg/km (24.2 lb/mi)",
+    "Fuel_per_seat": "3.25 L/100 km (72 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A380",
+    "Seats": 544,
+    "Sector": "2,000 nmi (3,700 km)",
+    "Fuel_burn": "13.6 kg/km (48.4 lb/mi)",
+    "Fuel_per_seat": "3.14 L/100 km (75 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX-8",
+    "Seats": 168,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "2.86 kg/km (10.1 lb/mi)",
+    "Fuel_per_seat": "2.13 L/100 km (110 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 737 MAX-9",
+    "Seats": 144,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "2.91 kg/km (10.3 lb/mi)",
+    "Fuel_per_seat": "2.53 L/100 km (93 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-400",
+    "Seats": 416,
+    "Sector": "2,151 nmi (3,984 km)",
+    "Fuel_burn": "10.77 kg/km (38.2 lb/mi)",
+    "Fuel_per_seat": "3.24 L/100 km (73 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-8",
+    "Seats": 467,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "9.9 kg/km (35 lb/mi)",
+    "Fuel_per_seat": "2.65 L/100 km (89 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 757-200W",
+    "Seats": 158,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "3.79 kg/km (13.4 lb/mi)",
+    "Fuel_per_seat": "3.00 L/100 km (78 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-200ER",
+    "Seats": 181,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "4.83 kg/km (17.1 lb/mi)",
+    "Fuel_per_seat": "3.34 L/100 km (70 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-200ER",
+    "Seats": 193,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "5.01 kg/km (17.8 lb/mi)",
+    "Fuel_per_seat": "3.25 L/100 km (72 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-200ER",
+    "Seats": 224,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "4.93 kg/km (17.5 lb/mi)",
+    "Fuel_per_seat": "2.75 L/100 km (86 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-300ER",
+    "Seats": 218,
+    "Sector": "2,151 nmi (3,984 km)",
+    "Fuel_burn": "5.38 kg/km (19.1 lb/mi)",
+    "Fuel_per_seat": "3.09 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-300ER",
+    "Seats": 218,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "5.39 kg/km (19.1 lb/mi)",
+    "Fuel_per_seat": "3.09 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-300ER",
+    "Seats": 269,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "5.51 kg/km (19.5 lb/mi)",
+    "Fuel_per_seat": "2.56 L/100 km (92 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-400ER",
+    "Seats": 245,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "5.78 kg/km (20.5 lb/mi)",
+    "Fuel_per_seat": "2.95 L/100 km (80 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-400ER",
+    "Seats": 304,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "5.93 kg/km (21.0 lb/mi)",
+    "Fuel_per_seat": "2.44 L/100 km (96 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 767-400ER",
+    "Seats": 304,
+    "Sector": "3,265 nmi (6,047 km)",
+    "Fuel_burn": "5.92 kg/km (21 lb/mi)",
+    "Fuel_per_seat": "2.43 L/100 km (96.9 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-200",
+    "Seats": 305,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "6.83 kg/km (24.2 lb/mi)",
+    "Fuel_per_seat": "2.80 L/100 km (84 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-200ER",
+    "Seats": 301,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "6.96 kg/km (24.7 lb/mi)",
+    "Fuel_per_seat": "2.89 L/100 km (81 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-300",
+    "Seats": 368,
+    "Sector": "3,000 nmi (5,600 km)",
+    "Fuel_burn": "7.88 kg/km (28.0 lb/mi)",
+    "Fuel_per_seat": "2.68 L/100 km (88 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-8",
+    "Seats": 291,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "5.26 kg/km (18.7 lb/mi)",
+    "Fuel_per_seat": "2.26 L/100 km (104 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-8",
+    "Seats": 238,
+    "Sector": "3,400 nmi (6,300 km)",
+    "Fuel_burn": "5.11 kg/km (18.1 lb/mi)",
+    "Fuel_per_seat": "2.68 L/100 km (88 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-9",
+    "Seats": 304,
+    "Sector": "3,350 nmi (6,200 km)",
+    "Fuel_burn": "5.77 kg/km (20.5 lb/mi)",
+    "Fuel_per_seat": "2.37 L/100 km (99 mpg‑US)"
+  },
+  {
+    "Model": "Irkut MC-21-300",
+    "Seats": 163,
+    "Sector": "1,750 nmi (3,240 km)",
+    "Fuel_burn": "3.04 kg/km (10.8 lb/mi)",
+    "Fuel_per_seat": "2.33 L/100 km (101 mpg‑US)"
+  },
+      {
+    "Model": "Airbus A330-200",
+    "Seats": 241,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "6.4 kg/km (23 lb/mi)",
+    "Fuel_per_seat": "3.32 L/100 km (71 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-200",
+    "Seats": 248,
+    "Sector": "5,549 nmi (10,277 km)",
+    "Fuel_burn": "6.55 kg/km (23.2 lb/mi)",
+    "Fuel_per_seat": "3.3 L/100 km (71 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-300",
+    "Seats": 274,
+    "Sector": "5,548 nmi (10,275 km)",
+    "Fuel_burn": "6.81 kg/km (24.2 lb/mi)",
+    "Fuel_per_seat": "3.11 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-800",
+    "Seats": 248,
+    "Sector": "4,650 nmi (8,610 km)",
+    "Fuel_burn": "5.45 kg/km (19.3 lb/mi)",
+    "Fuel_per_seat": "2.75 L/100 km (86 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A330-900",
+    "Seats": 300,
+    "Sector": "4,650 nmi (8,610 km)",
+    "Fuel_burn": "5.94 kg/km (21.1 lb/mi)",
+    "Fuel_per_seat": "2.48 L/100 km (95 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A340-300",
+    "Seats": 262,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "7.32 kg/km (26.0 lb/mi)",
+    "Fuel_per_seat": "3.49 L/100 km (67.4 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A350-900",
+    "Seats": 315,
+    "Sector": "4,972 nmi (9,208 km)",
+    "Fuel_burn": "6.03 kg/km (21.4 lb/mi)",
+    "Fuel_per_seat": "2.39 L/100 km (98 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A350-900",
+    "Seats": 318,
+    "Sector": "5,534 nmi (10,249 km)",
+    "Fuel_burn": "6.52 kg/km (23.1 lb/mi)",
+    "Fuel_per_seat": "2.56 L/100 km (92 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A350-900",
+    "Seats": 315,
+    "Sector": "6,542 nmi (12,116 km)",
+    "Fuel_burn": "7.07 kg/km (25.1 lb/mi)",
+    "Fuel_per_seat": "2.81 L/100 km (84 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A350-1000",
+    "Seats": 327,
+    "Sector": "5,531 nmi (10,243 km)",
+    "Fuel_burn": "7.46 kg/km (26.5 lb/mi)",
+    "Fuel_per_seat": "2.85 L/100 km (83 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A350-1000",
+    "Seats": 367,
+    "Sector": "5,531 nmi (10,243 km)",
+    "Fuel_burn": "7.58 kg/km (26.9 lb/mi)",
+    "Fuel_per_seat": "2.58 L/100 km (91 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A380",
+    "Seats": 525,
+    "Sector": "7,200 nmi (13,300 km)",
+    "Fuel_burn": "13.78 kg/km (48.9 lb/mi)",
+    "Fuel_per_seat": "3.27 L/100 km (72 mpg‑US)"
+  },
+  {
+    "Model": "Airbus A380",
+    "Seats": 544,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "13.78 kg/km (48.9 lb/mi)",
+    "Fuel_per_seat": "3.16 L/100 km (74 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-400",
+    "Seats": 416,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "11.11 kg/km (39.4 lb/mi)",
+    "Fuel_per_seat": "3.34 L/100 km (70 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-400",
+    "Seats": 393,
+    "Sector": "5,503 nmi (10,192 km)",
+    "Fuel_burn": "11.82 kg/km (41.9 lb/mi)",
+    "Fuel_per_seat": "3.76 L/100 km (62.6 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-400",
+    "Seats": 487,
+    "Sector": "5,479 nmi (10,147 km)",
+    "Fuel_burn": "12.31 kg/km (43.7 lb/mi)",
+    "Fuel_per_seat": "3.16 L/100 km (74 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-8",
+    "Seats": 467,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "10.54 kg/km (37.4 lb/mi)",
+    "Fuel_per_seat": "2.82 L/100 km (83 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 747-8",
+    "Seats": 405,
+    "Sector": "7,200 nmi (13,300 km)",
+    "Fuel_burn": "10.9 kg/km (39 lb/mi)",
+    "Fuel_per_seat": "3.35 L/100 km (70 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-200ER",
+    "Seats": 304,
+    "Sector": "5,535 nmi (10,251 km)",
+    "Fuel_burn": "7.57 kg/km (26.9 lb/mi)",
+    "Fuel_per_seat": "3.11 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-200ER",
+    "Seats": 301,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "7.42 kg/km (26.3 lb/mi)",
+    "Fuel_per_seat": "3.08 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-200ER",
+    "Seats": 301,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "7.44 kg/km (26.4 lb/mi)",
+    "Fuel_per_seat": "3.09 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-200LR",
+    "Seats": 291,
+    "Sector": "4,972 nmi (9,208 km)",
+    "Fuel_burn": "7.57 kg/km (26.9 lb/mi)",
+    "Fuel_per_seat": "3.25 L/100 km (72 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-300ER",
+    "Seats": 382,
+    "Sector": "5,507 nmi (10,199 km)",
+    "Fuel_burn": "8.86 kg/km (31.4 lb/mi)",
+    "Fuel_per_seat": "2.9 L/100 km (81 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-300ER",
+    "Seats": 365,
+    "Sector": "6,000 nmi (11,000 km)",
+    "Fuel_burn": "8.49 kg/km (30.1 lb/mi)",
+    "Fuel_per_seat": "2.91 L/100 km (81 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-300ER",
+    "Seats": 344,
+    "Sector": "7,200 nmi (13,300 km)",
+    "Fuel_burn": "8.58 kg/km (30.4 lb/mi)",
+    "Fuel_per_seat": "3.11 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 777-9X",
+    "Seats": 395,
+    "Sector": "7,200 nmi (13,300 km)",
+    "Fuel_burn": "7.69 kg/km (27.3 lb/mi)",
+    "Fuel_per_seat": "2.42 L/100 km (97 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-8",
+    "Seats": 243,
+    "Sector": "4,650 nmi (8,610 km)",
+    "Fuel_burn": "5.38 kg/km (19.1 lb/mi)",
+    "Fuel_per_seat": "2.77 L/100 km (85 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-8 GEnx",
+    "Seats": 220,
+    "Sector": "5,537 nmi (10,255 km)",
+    "Fuel_burn": "5.3 kg/km (19 lb/mi)",
+    "Fuel_per_seat": "3.01 L/100 km (78 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-8 Trent",
+    "Seats": 220,
+    "Sector": "5,537 nmi (10,255 km)",
+    "Fuel_burn": "5.51 kg/km (19.5 lb/mi)",
+    "Fuel_per_seat": "3.13 L/100 km (75 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-9 GEnx",
+    "Seats": 294,
+    "Sector": "4,650 nmi (8,610 km)",
+    "Fuel_burn": "5.85 kg/km (20.8 lb/mi)",
+    "Fuel_per_seat": "2.49 L/100 km (94 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-9",
+    "Seats": 304,
+    "Sector": "4,972 nmi (9,208 km)",
+    "Fuel_burn": "5.63 kg/km (20.0 lb/mi)",
+    "Fuel_per_seat": "2.31 L/100 km (102 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-9 GEnx",
+    "Seats": 266,
+    "Sector": "5,534 nmi (10,249 km)",
+    "Fuel_burn": "5.62 kg/km (19.9 lb/mi)",
+    "Fuel_per_seat": "2.64 L/100 km (89 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-9",
+    "Seats": 291,
+    "Sector": "6,542 nmi (12,116 km)",
+    "Fuel_burn": "7.18 kg/km (25.5 lb/mi)",
+    "Fuel_per_seat": "3.08 L/100 km (76 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-10 GEnx",
+    "Seats": 337,
+    "Sector": "5,529 nmi (10,240 km)",
+    "Fuel_burn": "6.12 kg/km (21.7 lb/mi)",
+    "Fuel_per_seat": "2.27 L/100 km (104 mpg‑US)"
+  },
+  {
+    "Model": "Boeing 787-10 Trent",
+    "Seats": 337,
+    "Sector": "5,529 nmi (10,240 km)",
+    "Fuel_burn": "6.24 kg/km (22.1 lb/mi)",
+    "Fuel_per_seat": "2.31 L/100 km (102 mpg‑US)"
+  }
+  ]
+}

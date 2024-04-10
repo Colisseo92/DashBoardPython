@@ -1,0 +1,3029 @@
+{
+    "data": [
+        {
+            "name": "Port Moresby Jacksons International Airport",
+            "iso_country": "PG",
+            "iata_code": "POM"
+        },
+        {
+            "name": "Keflavik International Airport",
+            "iso_country": "IS",
+            "iata_code": "KEF"
+        },
+        {
+            "name": "Pri\u00c5\u00a1tina International Airport",
+            "iso_country": "XK",
+            "iata_code": "PRN"
+        },
+        {
+            "name": "Edmonton International Airport",
+            "iso_country": "CA",
+            "iata_code": "YEG"
+        },
+        {
+            "name": "Halifax / Stanfield International Airport",
+            "iso_country": "CA",
+            "iata_code": "YHZ"
+        },
+        {
+            "name": "Ottawa Macdonald-Cartier International Airport",
+            "iso_country": "CA",
+            "iata_code": "YOW"
+        },
+        {
+            "name": "Montreal / Pierre Elliott Trudeau International Airport",
+            "iso_country": "CA",
+            "iata_code": "YUL"
+        },
+        {
+            "name": "Vancouver International Airport",
+            "iso_country": "CA",
+            "iata_code": "YVR"
+        },
+        {
+            "name": "Winnipeg / James Armstrong Richardson International Airport",
+            "iso_country": "CA",
+            "iata_code": "YWG"
+        },
+        {
+            "name": "Calgary International Airport",
+            "iso_country": "CA",
+            "iata_code": "YYC"
+        },
+        {
+            "name": "Victoria International Airport",
+            "iso_country": "CA",
+            "iata_code": "YYJ"
+        },
+        {
+            "name": "St. John's International Airport",
+            "iso_country": "CA",
+            "iata_code": "YYT"
+        },
+        {
+            "name": "Lester B. Pearson International Airport",
+            "iso_country": "CA",
+            "iata_code": "YYZ"
+        },
+        {
+            "name": "Houari Boumediene Airport",
+            "iso_country": "DZ",
+            "iata_code": "ALG"
+        },
+        {
+            "name": "Ouagadougou Airport",
+            "iso_country": "BF",
+            "iata_code": "OUA"
+        },
+        {
+            "name": "Kotoka International Airport",
+            "iso_country": "GH",
+            "iata_code": "ACC"
+        },
+        {
+            "name": "Nnamdi Azikiwe International Airport",
+            "iso_country": "NG",
+            "iata_code": "ABV"
+        },
+        {
+            "name": "Akwa Ibom International Airport",
+            "iso_country": "NG",
+            "iata_code": "QUO"
+        },
+        {
+            "name": "Mallam Aminu International Airport",
+            "iso_country": "NG",
+            "iata_code": "KAN"
+        },
+        {
+            "name": "Murtala Muhammed International Airport",
+            "iso_country": "NG",
+            "iata_code": "LOS"
+        },
+        {
+            "name": "Diori Hamani International Airport",
+            "iso_country": "NE",
+            "iata_code": "NIM"
+        },
+        {
+            "name": "Tunis Carthage International Airport",
+            "iso_country": "TN",
+            "iata_code": "TUN"
+        },
+        {
+            "name": "Brussels Airport",
+            "iso_country": "BE",
+            "iata_code": "BRU"
+        },
+        {
+            "name": "Brussels South Charleroi Airport",
+            "iso_country": "BE",
+            "iata_code": "CRL"
+        },
+        {
+            "name": "Li\u00c3\u00a8ge Airport",
+            "iso_country": "BE",
+            "iata_code": "LGG"
+        },
+        {
+            "name": "Berlin-Sch\u00c3\u00b6nefeld Airport",
+            "iso_country": "DE",
+            "iata_code": "SXF"
+        },
+        {
+            "name": "Dresden Airport",
+            "iso_country": "DE",
+            "iata_code": "DRS"
+        },
+        {
+            "name": "Frankfurt am Main Airport",
+            "iso_country": "DE",
+            "iata_code": "FRA"
+        },
+        {
+            "name": "M\u00c3\u00bcnster Osnabr\u00c3\u00bcck Airport",
+            "iso_country": "DE",
+            "iata_code": "FMO"
+        },
+        {
+            "name": "Hamburg Airport",
+            "iso_country": "DE",
+            "iata_code": "HAM"
+        },
+        {
+            "name": "Cologne Bonn Airport",
+            "iso_country": "DE",
+            "iata_code": "CGN"
+        },
+        {
+            "name": "D\u00c3\u00bcsseldorf Airport",
+            "iso_country": "DE",
+            "iata_code": "DUS"
+        },
+        {
+            "name": "Munich Airport",
+            "iso_country": "DE",
+            "iata_code": "MUC"
+        },
+        {
+            "name": "Nuremberg Airport",
+            "iso_country": "DE",
+            "iata_code": "NUE"
+        },
+        {
+            "name": "Leipzig/Halle Airport",
+            "iso_country": "DE",
+            "iata_code": "LEJ"
+        },
+        {
+            "name": "Stuttgart Airport",
+            "iso_country": "DE",
+            "iata_code": "STR"
+        },
+        {
+            "name": "Berlin-Tegel Airport",
+            "iso_country": "DE",
+            "iata_code": "TXL"
+        },
+        {
+            "name": "Hannover Airport",
+            "iso_country": "DE",
+            "iata_code": "HAJ"
+        },
+        {
+            "name": "Bremen Airport",
+            "iso_country": "DE",
+            "iata_code": "BRE"
+        },
+        {
+            "name": "Dortmund Airport",
+            "iso_country": "DE",
+            "iata_code": "DTM"
+        },
+        {
+            "name": "Karlsruhe Baden-Baden Airport",
+            "iso_country": "DE",
+            "iata_code": "FKB"
+        },
+        {
+            "name": "Lennart Meri Tallinn Airport",
+            "iso_country": "EE",
+            "iata_code": "TLL"
+        },
+        {
+            "name": "Helsinki Vantaa Airport",
+            "iso_country": "FI",
+            "iata_code": "HEL"
+        },
+        {
+            "name": "Belfast International Airport",
+            "iso_country": "GB",
+            "iata_code": "BFS"
+        },
+        {
+            "name": "George Best Belfast City Airport",
+            "iso_country": "GB",
+            "iata_code": "BHD"
+        },
+        {
+            "name": "Birmingham International Airport",
+            "iso_country": "GB",
+            "iata_code": "BHX"
+        },
+        {
+            "name": "Manchester Airport",
+            "iso_country": "GB",
+            "iata_code": "MAN"
+        },
+        {
+            "name": "Robin Hood Doncaster Sheffield Airport",
+            "iso_country": "GB",
+            "iata_code": "DSA"
+        },
+        {
+            "name": "Cardiff International Airport",
+            "iso_country": "GB",
+            "iata_code": "CWL"
+        },
+        {
+            "name": "Bristol Airport",
+            "iso_country": "GB",
+            "iata_code": "BRS"
+        },
+        {
+            "name": "Liverpool John Lennon Airport",
+            "iso_country": "GB",
+            "iata_code": "LPL"
+        },
+        {
+            "name": "London Luton Airport",
+            "iso_country": "GB",
+            "iata_code": "LTN"
+        },
+        {
+            "name": "Bournemouth Airport",
+            "iso_country": "GB",
+            "iata_code": "BOH"
+        },
+        {
+            "name": "Southampton Airport",
+            "iso_country": "GB",
+            "iata_code": "SOU"
+        },
+        {
+            "name": "London Gatwick Airport",
+            "iso_country": "GB",
+            "iata_code": "LGW"
+        },
+        {
+            "name": "London Heathrow Airport",
+            "iso_country": "GB",
+            "iata_code": "LHR"
+        },
+        {
+            "name": "Leeds Bradford Airport",
+            "iso_country": "GB",
+            "iata_code": "LBA"
+        },
+        {
+            "name": "Newcastle Airport",
+            "iso_country": "GB",
+            "iata_code": "NCL"
+        },
+        {
+            "name": "East Midlands Airport",
+            "iso_country": "GB",
+            "iata_code": "EMA"
+        },
+        {
+            "name": "Aberdeen Dyce Airport",
+            "iso_country": "GB",
+            "iata_code": "ABZ"
+        },
+        {
+            "name": "Glasgow International Airport",
+            "iso_country": "GB",
+            "iata_code": "GLA"
+        },
+        {
+            "name": "Edinburgh Airport",
+            "iso_country": "GB",
+            "iata_code": "EDI"
+        },
+        {
+            "name": "Norwich International Airport",
+            "iso_country": "GB",
+            "iata_code": "NWI"
+        },
+        {
+            "name": "London Stansted Airport",
+            "iso_country": "GB",
+            "iata_code": "STN"
+        },
+        {
+            "name": "Exeter International Airport",
+            "iso_country": "GB",
+            "iata_code": "EXT"
+        },
+        {
+            "name": "RAF Lakenheath",
+            "iso_country": "GB",
+            "iata_code": "LKZ"
+        },
+        {
+            "name": "RAF Mildenhall",
+            "iso_country": "GB",
+            "iata_code": "MHZ"
+        },
+        {
+            "name": "RAF Fairford",
+            "iso_country": "GB",
+            "iata_code": "FFD"
+        },
+        {
+            "name": "RAF Brize Norton",
+            "iso_country": "GB",
+            "iata_code": "BZZ"
+        },
+        {
+            "name": "Amsterdam Airport Schiphol",
+            "iso_country": "NL",
+            "iata_code": "AMS"
+        },
+        {
+            "name": "Eindhoven Airport",
+            "iso_country": "NL",
+            "iata_code": "EIN"
+        },
+        {
+            "name": "Cork Airport",
+            "iso_country": "IE",
+            "iata_code": "ORK"
+        },
+        {
+            "name": "Dublin Airport",
+            "iso_country": "IE",
+            "iata_code": "DUB"
+        },
+        {
+            "name": "Shannon Airport",
+            "iso_country": "IE",
+            "iata_code": "SNN"
+        },
+        {
+            "name": "Billund Airport",
+            "iso_country": "DK",
+            "iata_code": "BLL"
+        },
+        {
+            "name": "Copenhagen Kastrup Airport",
+            "iso_country": "DK",
+            "iata_code": "CPH"
+        },
+        {
+            "name": "Aalborg Airport",
+            "iso_country": "DK",
+            "iata_code": "AAL"
+        },
+        {
+            "name": "Luxembourg-Findel International Airport",
+            "iso_country": "LU",
+            "iata_code": "LUX"
+        },
+        {
+            "name": "Bod\u00c3\u00b8 Airport",
+            "iso_country": "NO",
+            "iata_code": "BOO"
+        },
+        {
+            "name": "Bergen Airport Flesland",
+            "iso_country": "NO",
+            "iata_code": "BGO"
+        },
+        {
+            "name": "Oslo Gardermoen Airport",
+            "iso_country": "NO",
+            "iata_code": "OSL"
+        },
+        {
+            "name": "Troms\u00c3\u00b8 Airport",
+            "iso_country": "NO",
+            "iata_code": "TOS"
+        },
+        {
+            "name": "Trondheim Airport V\u00c3\u00a6rnes",
+            "iso_country": "NO",
+            "iata_code": "TRD"
+        },
+        {
+            "name": "Stavanger Airport Sola",
+            "iso_country": "NO",
+            "iata_code": "SVG"
+        },
+        {
+            "name": "Gda\u00c5\u0084sk Lech Wa\u00c5\u0082\u00c4\u0099sa Airport",
+            "iso_country": "PL",
+            "iata_code": "GDN"
+        },
+        {
+            "name": "Krak\u00c3\u00b3w John Paul II International Airport",
+            "iso_country": "PL",
+            "iata_code": "KRK"
+        },
+        {
+            "name": "Katowice International Airport",
+            "iso_country": "PL",
+            "iata_code": "KTW"
+        },
+        {
+            "name": "Modlin Airport",
+            "iso_country": "PL",
+            "iata_code": "WMI"
+        },
+        {
+            "name": "Pozna\u00c5\u0084-\u00c5\u0081awica Airport",
+            "iso_country": "PL",
+            "iata_code": "POZ"
+        },
+        {
+            "name": "Warsaw Chopin Airport",
+            "iso_country": "PL",
+            "iata_code": "WAW"
+        },
+        {
+            "name": "Copernicus Wroc\u00c5\u0082aw Airport",
+            "iso_country": "PL",
+            "iata_code": "WRO"
+        },
+        {
+            "name": "Gothenburg-Landvetter Airport",
+            "iso_country": "SE",
+            "iata_code": "GOT"
+        },
+        {
+            "name": "Malm\u00c3\u00b6 Sturup Airport",
+            "iso_country": "SE",
+            "iata_code": "MMX"
+        },
+        {
+            "name": "Lule\u00c3\u00a5 Airport",
+            "iso_country": "SE",
+            "iata_code": "LLA"
+        },
+        {
+            "name": "Stockholm-Arlanda Airport",
+            "iso_country": "SE",
+            "iata_code": "ARN"
+        },
+        {
+            "name": "Ramstein Air Base",
+            "iso_country": "DE",
+            "iata_code": "RMS"
+        },
+        {
+            "name": "Riga International Airport",
+            "iso_country": "LV",
+            "iata_code": "RIX"
+        },
+        {
+            "name": "Vilnius International Airport",
+            "iso_country": "LT",
+            "iata_code": "VNO"
+        },
+        {
+            "name": "Cape Town International Airport",
+            "iso_country": "ZA",
+            "iata_code": "CPT"
+        },
+        {
+            "name": "George Airport",
+            "iso_country": "ZA",
+            "iata_code": "GRJ"
+        },
+        {
+            "name": "King Shaka International Airport",
+            "iso_country": "ZA",
+            "iata_code": "DUR"
+        },
+        {
+            "name": "OR Tambo International Airport",
+            "iso_country": "ZA",
+            "iata_code": "JNB"
+        },
+        {
+            "name": "Sir Seretse Khama International Airport",
+            "iso_country": "BW",
+            "iata_code": "GBE"
+        },
+        {
+            "name": "King Mswati III International Airport",
+            "iso_country": "SZ",
+            "iata_code": "SHO"
+        },
+        {
+            "name": "Sir Seewoosagur Ramgoolam International Airport",
+            "iso_country": "MU",
+            "iata_code": "MRU"
+        },
+        {
+            "name": "Kenneth Kaunda International Airport",
+            "iso_country": "ZM",
+            "iata_code": "LUN"
+        },
+        {
+            "name": "Ivato Airport",
+            "iso_country": "MG",
+            "iata_code": "TNR"
+        },
+        {
+            "name": "Quatro de Fevereiro Airport",
+            "iso_country": "AO",
+            "iata_code": "LAD"
+        },
+        {
+            "name": "Maputo Airport",
+            "iso_country": "MZ",
+            "iata_code": "MPM"
+        },
+        {
+            "name": "Seychelles International Airport",
+            "iso_country": "SC",
+            "iata_code": "SEZ"
+        },
+        {
+            "name": "N'Djamena International Airport",
+            "iso_country": "TD",
+            "iata_code": "NDJ"
+        },
+        {
+            "name": "Robert Gabriel Mugabe International Airport",
+            "iso_country": "ZW",
+            "iata_code": "HRE"
+        },
+        {
+            "name": "Ndjili International Airport",
+            "iso_country": "CD",
+            "iata_code": "FIH"
+        },
+        {
+            "name": "Modibo Keita International Airport",
+            "iso_country": "ML",
+            "iata_code": "BKO"
+        },
+        {
+            "name": "La Palma Airport",
+            "iso_country": "ES",
+            "iata_code": "SPC"
+        },
+        {
+            "name": "Gran Canaria Airport",
+            "iso_country": "ES",
+            "iata_code": "LPA"
+        },
+        {
+            "name": "Tenerife South Airport",
+            "iso_country": "ES",
+            "iata_code": "TFS"
+        },
+        {
+            "name": "Tenerife Norte Airport",
+            "iso_country": "ES",
+            "iata_code": "TFN"
+        },
+        {
+            "name": "Lungi International Airport",
+            "iso_country": "SL",
+            "iata_code": "FNA"
+        },
+        {
+            "name": "Roberts International Airport",
+            "iso_country": "LR",
+            "iata_code": "ROB"
+        },
+        {
+            "name": "Mohammed V International Airport",
+            "iso_country": "MA",
+            "iata_code": "CMN"
+        },
+        {
+            "name": "Blaise Diagne International Airport",
+            "iso_country": "SN",
+            "iata_code": "DSS"
+        },
+        {
+            "name": "L\u00c3\u00a9opold S\u00c3\u00a9dar Senghor International Airport",
+            "iso_country": "SN",
+            "iata_code": "DKR"
+        },
+        {
+            "name": "Nouakchott\u00e2\u0080\u0093Oumtounsy International Airport",
+            "iso_country": "MR",
+            "iata_code": "NKC"
+        },
+        {
+            "name": "Am\u00c3\u00adlcar Cabral International Airport",
+            "iso_country": "CV",
+            "iata_code": "SID"
+        },
+        {
+            "name": "Addis Ababa Bole International Airport",
+            "iso_country": "ET",
+            "iata_code": "ADD"
+        },
+        {
+            "name": "Egal International Airport",
+            "iso_country": "SO",
+            "iata_code": "HGA"
+        },
+        {
+            "name": "Cairo International Airport",
+            "iso_country": "EG",
+            "iata_code": "CAI"
+        },
+        {
+            "name": "Hurghada International Airport",
+            "iso_country": "EG",
+            "iata_code": "HRG"
+        },
+        {
+            "name": "Luxor International Airport",
+            "iso_country": "EG",
+            "iata_code": "LXR"
+        },
+        {
+            "name": "Jomo Kenyatta International Airport",
+            "iso_country": "KE",
+            "iata_code": "NBO"
+        },
+        {
+            "name": "Mombasa Moi International Airport",
+            "iso_country": "KE",
+            "iata_code": "MBA"
+        },
+        {
+            "name": "Tripoli International Airport",
+            "iso_country": "LY",
+            "iata_code": "TIP"
+        },
+        {
+            "name": "Kigali International Airport",
+            "iso_country": "RW",
+            "iata_code": "KGL"
+        },
+        {
+            "name": "Juba International Airport",
+            "iso_country": "SS",
+            "iata_code": "JUB"
+        },
+        {
+            "name": "Khartoum International Airport",
+            "iso_country": "SD",
+            "iata_code": "KRT"
+        },
+        {
+            "name": "Julius Nyerere International Airport",
+            "iso_country": "TZ",
+            "iata_code": "DAR"
+        },
+        {
+            "name": "Abeid Amani Karume International Airport",
+            "iso_country": "TZ",
+            "iata_code": "ZNZ"
+        },
+        {
+            "name": "Entebbe International Airport",
+            "iso_country": "UG",
+            "iata_code": "EBB"
+        },
+        {
+            "name": "Aji Pangeran Tumenggung Pranoto International Airport",
+            "iso_country": "ID",
+            "iata_code": "AAP"
+        },
+        {
+            "name": "Albuquerque International Sunport",
+            "iso_country": "US",
+            "iata_code": "ABQ"
+        },
+        {
+            "name": "Joint Base Andrews",
+            "iso_country": "US",
+            "iata_code": "ADW"
+        },
+        {
+            "name": "Fort Worth Alliance Airport",
+            "iso_country": "US",
+            "iata_code": "AFW"
+        },
+        {
+            "name": "Augusta Regional At Bush Field",
+            "iso_country": "US",
+            "iata_code": "AGS"
+        },
+        {
+            "name": "Rick Husband Amarillo International Airport",
+            "iso_country": "US",
+            "iata_code": "AMA"
+        },
+        {
+            "name": "Hartsfield Jackson Atlanta International Airport",
+            "iso_country": "US",
+            "iata_code": "ATL"
+        },
+        {
+            "name": "Austin Bergstrom International Airport",
+            "iso_country": "US",
+            "iata_code": "AUS"
+        },
+        {
+            "name": "Asheville Regional Airport",
+            "iso_country": "US",
+            "iata_code": "AVL"
+        },
+        {
+            "name": "Beale Air Force Base",
+            "iso_country": "US",
+            "iata_code": "BAB"
+        },
+        {
+            "name": "Barksdale Air Force Base",
+            "iso_country": "US",
+            "iata_code": "BAD"
+        },
+        {
+            "name": "Bradley International Airport",
+            "iso_country": "US",
+            "iata_code": "BDL"
+        },
+        {
+            "name": "Boeing Field King County International Airport",
+            "iso_country": "US",
+            "iata_code": "BFI"
+        },
+        {
+            "name": "Bangor International Airport",
+            "iso_country": "US",
+            "iata_code": "BGR"
+        },
+        {
+            "name": "Birmingham-Shuttlesworth International Airport",
+            "iso_country": "US",
+            "iata_code": "BHM"
+        },
+        {
+            "name": "Billings Logan International Airport",
+            "iso_country": "US",
+            "iata_code": "BIL"
+        },
+        {
+            "name": "Scott AFB/Midamerica Airport",
+            "iso_country": "US",
+            "iata_code": "BLV"
+        },
+        {
+            "name": "Central Illinois Regional Airport at Bloomington-Normal",
+            "iso_country": "US",
+            "iata_code": "BMI"
+        },
+        {
+            "name": "Nashville International Airport",
+            "iso_country": "US",
+            "iata_code": "BNA"
+        },
+        {
+            "name": "Boise Air Terminal/Gowen Field",
+            "iso_country": "US",
+            "iata_code": "BOI"
+        },
+        {
+            "name": "General Edward Lawrence Logan International Airport",
+            "iso_country": "US",
+            "iata_code": "BOS"
+        },
+        {
+            "name": "Buffalo Niagara International Airport",
+            "iso_country": "US",
+            "iata_code": "BUF"
+        },
+        {
+            "name": "Baltimore/Washington International Thurgood Marshall Airport",
+            "iso_country": "US",
+            "iata_code": "BWI"
+        },
+        {
+            "name": "Columbia Metropolitan Airport",
+            "iso_country": "US",
+            "iata_code": "CAE"
+        },
+        {
+            "name": "Columbus Air Force Base",
+            "iso_country": "US",
+            "iata_code": "CBM"
+        },
+        {
+            "name": "Lovell Field",
+            "iso_country": "US",
+            "iata_code": "CHA"
+        },
+        {
+            "name": "Charleston Air Force Base-International Airport",
+            "iso_country": "US",
+            "iata_code": "CHS"
+        },
+        {
+            "name": "The Eastern Iowa Airport",
+            "iso_country": "US",
+            "iata_code": "CID"
+        },
+        {
+            "name": "Cleveland Hopkins International Airport",
+            "iso_country": "US",
+            "iata_code": "CLE"
+        },
+        {
+            "name": "Charlotte Douglas International Airport",
+            "iso_country": "US",
+            "iata_code": "CLT"
+        },
+        {
+            "name": "John Glenn Columbus International Airport",
+            "iso_country": "US",
+            "iata_code": "CMH"
+        },
+        {
+            "name": "City of Colorado Springs Municipal Airport",
+            "iso_country": "US",
+            "iata_code": "COS"
+        },
+        {
+            "name": "Corpus Christi International Airport",
+            "iso_country": "US",
+            "iata_code": "CRP"
+        },
+        {
+            "name": "Yeager Airport",
+            "iso_country": "US",
+            "iata_code": "CRW"
+        },
+        {
+            "name": "Cincinnati Northern Kentucky International Airport",
+            "iso_country": "US",
+            "iata_code": "CVG"
+        },
+        {
+            "name": "Cannon Air Force Base",
+            "iso_country": "US",
+            "iata_code": "CVS"
+        },
+        {
+            "name": "Daytona Beach International Airport",
+            "iso_country": "US",
+            "iata_code": "DAB"
+        },
+        {
+            "name": "Dallas Love Field",
+            "iso_country": "US",
+            "iata_code": "DAL"
+        },
+        {
+            "name": "James M Cox Dayton International Airport",
+            "iso_country": "US",
+            "iata_code": "DAY"
+        },
+        {
+            "name": "Dubuque Regional Airport",
+            "iso_country": "US",
+            "iata_code": "DBQ"
+        },
+        {
+            "name": "Ronald Reagan Washington National Airport",
+            "iso_country": "US",
+            "iata_code": "DCA"
+        },
+        {
+            "name": "Denver International Airport",
+            "iso_country": "US",
+            "iata_code": "DEN"
+        },
+        {
+            "name": "Dallas Fort Worth International Airport",
+            "iso_country": "US",
+            "iata_code": "DFW"
+        },
+        {
+            "name": "DLF Airport",
+            "iso_country": "US",
+            "iata_code": "DLF"
+        },
+        {
+            "name": "Duluth International Airport",
+            "iso_country": "US",
+            "iata_code": "DLH"
+        },
+        {
+            "name": "Dover Air Force Base",
+            "iso_country": "US",
+            "iata_code": "DOV"
+        },
+        {
+            "name": "Des Moines International Airport",
+            "iso_country": "US",
+            "iata_code": "DSM"
+        },
+        {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "iso_country": "US",
+            "iata_code": "DTW"
+        },
+        {
+            "name": "Dyess Air Force Base",
+            "iso_country": "US",
+            "iata_code": "DYS"
+        },
+        {
+            "name": "Edwards Air Force Base",
+            "iso_country": "US",
+            "iata_code": "EDW"
+        },
+        {
+            "name": "Vance Air Force Base",
+            "iso_country": "US",
+            "iata_code": "END"
+        },
+        {
+            "name": "Erie International Tom Ridge Field",
+            "iso_country": "US",
+            "iata_code": "ERI"
+        },
+        {
+            "name": "Newark Liberty International Airport",
+            "iso_country": "US",
+            "iata_code": "EWR"
+        },
+        {
+            "name": "Wright-Patterson Air Force Base",
+            "iso_country": "US",
+            "iata_code": "FFO"
+        },
+        {
+            "name": "Fort Lauderdale Hollywood International Airport",
+            "iso_country": "US",
+            "iata_code": "FLL"
+        },
+        {
+            "name": "Fort Smith Regional Airport",
+            "iso_country": "US",
+            "iata_code": "FSM"
+        },
+        {
+            "name": "Fort Worth Meacham International Airport",
+            "iso_country": "US",
+            "iata_code": "FTW"
+        },
+        {
+            "name": "Fort Wayne International Airport",
+            "iso_country": "US",
+            "iata_code": "FWA"
+        },
+        {
+            "name": "Spokane International Airport",
+            "iso_country": "US",
+            "iata_code": "GEG"
+        },
+        {
+            "name": "Gulfport Biloxi International Airport",
+            "iso_country": "US",
+            "iata_code": "GPT"
+        },
+        {
+            "name": "Austin Straubel International Airport",
+            "iso_country": "US",
+            "iata_code": "GRB"
+        },
+        {
+            "name": "Seymour Johnson Air Force Base",
+            "iso_country": "US",
+            "iata_code": "GSB"
+        },
+        {
+            "name": "Piedmont Triad International Airport",
+            "iso_country": "US",
+            "iata_code": "GSO"
+        },
+        {
+            "name": "Greenville Spartanburg International Airport",
+            "iso_country": "US",
+            "iata_code": "GSP"
+        },
+        {
+            "name": "Grissom Air Reserve Base",
+            "iso_country": "US",
+            "iata_code": "GUS"
+        },
+        {
+            "name": "Range Regional Airport",
+            "iso_country": "US",
+            "iata_code": "HIB"
+        },
+        {
+            "name": "Holloman Air Force Base",
+            "iso_country": "US",
+            "iata_code": "HMN"
+        },
+        {
+            "name": "William P Hobby Airport",
+            "iso_country": "US",
+            "iata_code": "HOU"
+        },
+        {
+            "name": "Huntsville International Carl T Jones Field",
+            "iso_country": "US",
+            "iata_code": "HSV"
+        },
+        {
+            "name": "Tri-State/Milton J. Ferguson Field",
+            "iso_country": "US",
+            "iata_code": "HTS"
+        },
+        {
+            "name": "Washington Dulles International Airport",
+            "iso_country": "US",
+            "iata_code": "IAD"
+        },
+        {
+            "name": "George Bush Intercontinental Houston Airport",
+            "iso_country": "US",
+            "iata_code": "IAH"
+        },
+        {
+            "name": "Wichita Eisenhower National Airport",
+            "iso_country": "US",
+            "iata_code": "ICT"
+        },
+        {
+            "name": "Indianapolis International Airport",
+            "iso_country": "US",
+            "iata_code": "IND"
+        },
+        {
+            "name": "Jackson-Medgar Wiley Evers International Airport",
+            "iso_country": "US",
+            "iata_code": "JAN"
+        },
+        {
+            "name": "Jacksonville International Airport",
+            "iso_country": "US",
+            "iata_code": "JAX"
+        },
+        {
+            "name": "John F Kennedy International Airport",
+            "iso_country": "US",
+            "iata_code": "JFK"
+        },
+        {
+            "name": "Joplin Regional Airport",
+            "iso_country": "US",
+            "iata_code": "JLN"
+        },
+        {
+            "name": "McCarran International Airport",
+            "iso_country": "US",
+            "iata_code": "LAS"
+        },
+        {
+            "name": "Los Angeles International Airport",
+            "iso_country": "US",
+            "iata_code": "LAX"
+        },
+        {
+            "name": "Lubbock Preston Smith International Airport",
+            "iso_country": "US",
+            "iata_code": "LBB"
+        },
+        {
+            "name": "Rickenbacker International Airport",
+            "iso_country": "US",
+            "iata_code": "LCK"
+        },
+        {
+            "name": "Blue Grass Airport",
+            "iso_country": "US",
+            "iata_code": "LEX"
+        },
+        {
+            "name": "Langley Air Force Base",
+            "iso_country": "US",
+            "iata_code": "LFI"
+        },
+        {
+            "name": "Lafayette Regional Airport",
+            "iso_country": "US",
+            "iata_code": "LFT"
+        },
+        {
+            "name": "La Guardia Airport",
+            "iso_country": "US",
+            "iata_code": "LGA"
+        },
+        {
+            "name": "Bill & Hillary Clinton National Airport/Adams Field",
+            "iso_country": "US",
+            "iata_code": "LIT"
+        },
+        {
+            "name": "Altus Air Force Base",
+            "iso_country": "US",
+            "iata_code": "LTS"
+        },
+        {
+            "name": "Luke Air Force Base",
+            "iso_country": "US",
+            "iata_code": "LUF"
+        },
+        {
+            "name": "MBS International Airport",
+            "iso_country": "US",
+            "iata_code": "MBS"
+        },
+        {
+            "name": "Mac Dill Air Force Base",
+            "iso_country": "US",
+            "iata_code": "MCF"
+        },
+        {
+            "name": "Kansas City International Airport",
+            "iso_country": "US",
+            "iata_code": "MCI"
+        },
+        {
+            "name": "Orlando International Airport",
+            "iso_country": "US",
+            "iata_code": "MCO"
+        },
+        {
+            "name": "Chicago Midway International Airport",
+            "iso_country": "US",
+            "iata_code": "MDW"
+        },
+        {
+            "name": "Memphis International Airport",
+            "iso_country": "US",
+            "iata_code": "MEM"
+        },
+        {
+            "name": "Dobbins Air Reserve Base",
+            "iso_country": "US",
+            "iata_code": "MGE"
+        },
+        {
+            "name": "Montgomery Regional (Dannelly Field) Airport",
+            "iso_country": "US",
+            "iata_code": "MGM"
+        },
+        {
+            "name": "Manchester-Boston Regional Airport",
+            "iso_country": "US",
+            "iata_code": "MHT"
+        },
+        {
+            "name": "Miami International Airport",
+            "iso_country": "US",
+            "iata_code": "MIA"
+        },
+        {
+            "name": "General Mitchell International Airport",
+            "iso_country": "US",
+            "iata_code": "MKE"
+        },
+        {
+            "name": "Quad City International Airport",
+            "iso_country": "US",
+            "iata_code": "MLI"
+        },
+        {
+            "name": "Monroe Regional Airport",
+            "iso_country": "US",
+            "iata_code": "MLU"
+        },
+        {
+            "name": "Mobile Regional Airport",
+            "iso_country": "US",
+            "iata_code": "MOB"
+        },
+        {
+            "name": "Dane County Regional Truax Field",
+            "iso_country": "US",
+            "iata_code": "MSN"
+        },
+        {
+            "name": "Minneapolis-St Paul International/Wold-Chamberlain Airport",
+            "iso_country": "US",
+            "iata_code": "MSP"
+        },
+        {
+            "name": "Louis Armstrong New Orleans International Airport",
+            "iso_country": "US",
+            "iata_code": "MSY"
+        },
+        {
+            "name": "Mountain Home Air Force Base",
+            "iso_country": "US",
+            "iata_code": "MUO"
+        },
+        {
+            "name": "Metropolitan Oakland International Airport",
+            "iso_country": "US",
+            "iata_code": "OAK"
+        },
+        {
+            "name": "Will Rogers World Airport",
+            "iso_country": "US",
+            "iata_code": "OKC"
+        },
+        {
+            "name": "Eppley Airfield",
+            "iso_country": "US",
+            "iata_code": "OMA"
+        },
+        {
+            "name": "Ontario International Airport",
+            "iso_country": "US",
+            "iata_code": "ONT"
+        },
+        {
+            "name": "Chicago O'Hare International Airport",
+            "iso_country": "US",
+            "iata_code": "ORD"
+        },
+        {
+            "name": "Norfolk International Airport",
+            "iso_country": "US",
+            "iata_code": "ORF"
+        },
+        {
+            "name": "Tyndall Air Force Base",
+            "iso_country": "US",
+            "iata_code": "PAM"
+        },
+        {
+            "name": "Palm Beach International Airport",
+            "iso_country": "US",
+            "iata_code": "PBI"
+        },
+        {
+            "name": "Portland International Airport",
+            "iso_country": "US",
+            "iata_code": "PDX"
+        },
+        {
+            "name": "Newport News Williamsburg International Airport",
+            "iso_country": "US",
+            "iata_code": "PHF"
+        },
+        {
+            "name": "Philadelphia International Airport",
+            "iso_country": "US",
+            "iata_code": "PHL"
+        },
+        {
+            "name": "Phoenix Sky Harbor International Airport",
+            "iso_country": "US",
+            "iata_code": "PHX"
+        },
+        {
+            "name": "General Wayne A. Downing Peoria International Airport",
+            "iso_country": "US",
+            "iata_code": "PIA"
+        },
+        {
+            "name": "Pittsburgh International Airport",
+            "iso_country": "US",
+            "iata_code": "PIT"
+        },
+        {
+            "name": "Theodore Francis Green State Airport",
+            "iso_country": "US",
+            "iata_code": "PVD"
+        },
+        {
+            "name": "Portland International Jetport",
+            "iso_country": "US",
+            "iata_code": "PWM"
+        },
+        {
+            "name": "Raleigh Durham International Airport",
+            "iso_country": "US",
+            "iata_code": "RDU"
+        },
+        {
+            "name": "Chicago Rockford International Airport",
+            "iso_country": "US",
+            "iata_code": "RFD"
+        },
+        {
+            "name": "Richmond International Airport",
+            "iso_country": "US",
+            "iata_code": "RIC"
+        },
+        {
+            "name": "Randolph Air Force Base",
+            "iso_country": "US",
+            "iata_code": "RND"
+        },
+        {
+            "name": "Reno Tahoe International Airport",
+            "iso_country": "US",
+            "iata_code": "RNO"
+        },
+        {
+            "name": "Roanoke\u00e2\u0080\u0093Blacksburg Regional Airport",
+            "iso_country": "US",
+            "iata_code": "ROA"
+        },
+        {
+            "name": "Greater Rochester International Airport",
+            "iso_country": "US",
+            "iata_code": "ROC"
+        },
+        {
+            "name": "Rochester International Airport",
+            "iso_country": "US",
+            "iata_code": "RST"
+        },
+        {
+            "name": "Southwest Florida International Airport",
+            "iso_country": "US",
+            "iata_code": "RSW"
+        },
+        {
+            "name": "San Diego International Airport",
+            "iso_country": "US",
+            "iata_code": "SAN"
+        },
+        {
+            "name": "San Antonio International Airport",
+            "iso_country": "US",
+            "iata_code": "SAT"
+        },
+        {
+            "name": "Savannah Hilton Head International Airport",
+            "iso_country": "US",
+            "iata_code": "SAV"
+        },
+        {
+            "name": "South Bend Regional Airport",
+            "iso_country": "US",
+            "iata_code": "SBN"
+        },
+        {
+            "name": "Louisville Muhammad Ali International Airport",
+            "iso_country": "US",
+            "iata_code": "SDF"
+        },
+        {
+            "name": "Seattle Tacoma International Airport",
+            "iso_country": "US",
+            "iata_code": "SEA"
+        },
+        {
+            "name": "Orlando Sanford International Airport",
+            "iso_country": "US",
+            "iata_code": "SFB"
+        },
+        {
+            "name": "San Francisco International Airport",
+            "iso_country": "US",
+            "iata_code": "SFO"
+        },
+        {
+            "name": "Springfield Branson National Airport",
+            "iso_country": "US",
+            "iata_code": "SGF"
+        },
+        {
+            "name": "Norman Y. Mineta San Jose International Airport",
+            "iso_country": "US",
+            "iata_code": "SJC"
+        },
+        {
+            "name": "Fairchild Air Force Base",
+            "iso_country": "US",
+            "iata_code": "SKA"
+        },
+        {
+            "name": "Salt Lake City International Airport",
+            "iso_country": "US",
+            "iata_code": "SLC"
+        },
+        {
+            "name": "Sacramento International Airport",
+            "iso_country": "US",
+            "iata_code": "SMF"
+        },
+        {
+            "name": "John Wayne Airport-Orange County Airport",
+            "iso_country": "US",
+            "iata_code": "SNA"
+        },
+        {
+            "name": "Abraham Lincoln Capital Airport",
+            "iso_country": "US",
+            "iata_code": "SPI"
+        },
+        {
+            "name": "Sheppard Air Force Base-Wichita Falls Municipal Airport",
+            "iso_country": "US",
+            "iata_code": "SPS"
+        },
+        {
+            "name": "Sarasota Bradenton International Airport",
+            "iso_country": "US",
+            "iata_code": "SRQ"
+        },
+        {
+            "name": "Shaw Air Force Base",
+            "iso_country": "US",
+            "iata_code": "SSC"
+        },
+        {
+            "name": "St Louis Lambert International Airport",
+            "iso_country": "US",
+            "iata_code": "STL"
+        },
+        {
+            "name": "Spirit of St Louis Airport",
+            "iso_country": "US",
+            "iata_code": "SUS"
+        },
+        {
+            "name": "Travis Air Force Base",
+            "iso_country": "US",
+            "iata_code": "SUU"
+        },
+        {
+            "name": "Sioux Gateway Airport/Brigadier General Bud Day Field",
+            "iso_country": "US",
+            "iata_code": "SUX"
+        },
+        {
+            "name": "Syracuse Hancock International Airport",
+            "iso_country": "US",
+            "iata_code": "SYR"
+        },
+        {
+            "name": "Whiteman Air Force Base",
+            "iso_country": "US",
+            "iata_code": "SZL"
+        },
+        {
+            "name": "McChord Air Force Base",
+            "iso_country": "US",
+            "iata_code": "TCM"
+        },
+        {
+            "name": "Tinker Air Force Base",
+            "iso_country": "US",
+            "iata_code": "TIK"
+        },
+        {
+            "name": "Tallahassee Regional Airport",
+            "iso_country": "US",
+            "iata_code": "TLH"
+        },
+        {
+            "name": "Toledo Express Airport",
+            "iso_country": "US",
+            "iata_code": "TOL"
+        },
+        {
+            "name": "Tampa International Airport",
+            "iso_country": "US",
+            "iata_code": "TPA"
+        },
+        {
+            "name": "Tri-Cities Regional TN/VA Airport",
+            "iso_country": "US",
+            "iata_code": "TRI"
+        },
+        {
+            "name": "Tulsa International Airport",
+            "iso_country": "US",
+            "iata_code": "TUL"
+        },
+        {
+            "name": "Tucson International Airport / Morris Air National Guard Base",
+            "iso_country": "US",
+            "iata_code": "TUS"
+        },
+        {
+            "name": "McGhee Tyson Airport",
+            "iso_country": "US",
+            "iata_code": "TYS"
+        },
+        {
+            "name": "Vandenberg Air Force Base",
+            "iso_country": "US",
+            "iata_code": "VBG"
+        },
+        {
+            "name": "Destin-Ft Walton Beach Airport",
+            "iso_country": "US",
+            "iata_code": "VPS"
+        },
+        {
+            "name": "Robins Air Force Base",
+            "iso_country": "US",
+            "iata_code": "WRB"
+        },
+        {
+            "name": "Tirana International Airport Mother Teresa",
+            "iso_country": "AL",
+            "iata_code": "TIA"
+        },
+        {
+            "name": "Burgas Airport",
+            "iso_country": "BG",
+            "iata_code": "BOJ"
+        },
+        {
+            "name": "Sofia Airport",
+            "iso_country": "BG",
+            "iata_code": "SOF"
+        },
+        {
+            "name": "Varna Airport",
+            "iso_country": "BG",
+            "iata_code": "VAR"
+        },
+        {
+            "name": "Larnaca International Airport",
+            "iso_country": "CY",
+            "iata_code": "LCA"
+        },
+        {
+            "name": "Paphos International Airport",
+            "iso_country": "CY",
+            "iata_code": "PFO"
+        },
+        {
+            "name": "RAF Akrotiri",
+            "iso_country": "GB",
+            "iata_code": "AKT"
+        },
+        {
+            "name": "Zagreb Airport",
+            "iso_country": "HR",
+            "iata_code": "ZAG"
+        },
+        {
+            "name": "Alicante International Airport",
+            "iso_country": "ES",
+            "iata_code": "ALC"
+        },
+        {
+            "name": "Barcelona International Airport",
+            "iso_country": "ES",
+            "iata_code": "BCN"
+        },
+        {
+            "name": "Adolfo Su\u00c3\u00a1rez Madrid\u00e2\u0080\u0093Barajas Airport",
+            "iso_country": "ES",
+            "iata_code": "MAD"
+        },
+        {
+            "name": "M\u00c3\u00a1laga Airport",
+            "iso_country": "ES",
+            "iata_code": "AGP"
+        },
+        {
+            "name": "Palma De Mallorca Airport",
+            "iso_country": "ES",
+            "iata_code": "PMI"
+        },
+        {
+            "name": "Santiago de Compostela Airport",
+            "iso_country": "ES",
+            "iata_code": "SCQ"
+        },
+        {
+            "name": "Bordeaux-M\u00c3\u00a9rignac Airport",
+            "iso_country": "FR",
+            "iata_code": "BOD"
+        },
+        {
+            "name": "Toulouse-Blagnac Airport",
+            "iso_country": "FR",
+            "iata_code": "TLS"
+        },
+        {
+            "name": "Lyon Saint-Exup\u00c3\u00a9ry Airport",
+            "iso_country": "FR",
+            "iata_code": "LYS"
+        },
+        {
+            "name": "Marseille Provence Airport",
+            "iso_country": "FR",
+            "iata_code": "MRS"
+        },
+        {
+            "name": "Nice-C\u00c3\u00b4te d'Azur Airport",
+            "iso_country": "FR",
+            "iata_code": "NCE"
+        },
+        {
+            "name": "Charles de Gaulle International Airport",
+            "iso_country": "FR",
+            "iata_code": "CDG"
+        },
+        {
+            "name": "Paris-Orly Airport",
+            "iso_country": "FR",
+            "iata_code": "ORY"
+        },
+        {
+            "name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
+            "iso_country": "FR",
+            "iata_code": "BSL"
+        },
+        {
+            "name": "Eleftherios Venizelos International Airport",
+            "iso_country": "GR",
+            "iata_code": "ATH"
+        },
+        {
+            "name": "Heraklion International Nikos Kazantzakis Airport",
+            "iso_country": "GR",
+            "iata_code": "HER"
+        },
+        {
+            "name": "Thessaloniki Macedonia International Airport",
+            "iso_country": "GR",
+            "iata_code": "SKG"
+        },
+        {
+            "name": "Budapest Liszt Ferenc International Airport",
+            "iso_country": "HU",
+            "iata_code": "BUD"
+        },
+        {
+            "name": "Bari Karol Wojty\u00c5\u0082a Airport",
+            "iso_country": "IT",
+            "iata_code": "BRI"
+        },
+        {
+            "name": "Catania-Fontanarossa Airport",
+            "iso_country": "IT",
+            "iata_code": "CTA"
+        },
+        {
+            "name": "Falcone\u00e2\u0080\u0093Borsellino Airport",
+            "iso_country": "IT",
+            "iata_code": "PMO"
+        },
+        {
+            "name": "Cagliari Elmas Airport",
+            "iso_country": "IT",
+            "iata_code": "CAG"
+        },
+        {
+            "name": "Malpensa International Airport",
+            "iso_country": "IT",
+            "iata_code": "MXP"
+        },
+        {
+            "name": "Milan Bergamo Airport",
+            "iso_country": "IT",
+            "iata_code": "BGY"
+        },
+        {
+            "name": "Turin Airport",
+            "iso_country": "IT",
+            "iata_code": "TRN"
+        },
+        {
+            "name": "Genoa Cristoforo Colombo Airport",
+            "iso_country": "IT",
+            "iata_code": "GOA"
+        },
+        {
+            "name": "Milano Linate Airport",
+            "iso_country": "IT",
+            "iata_code": "LIN"
+        },
+        {
+            "name": "Bologna Guglielmo Marconi Airport",
+            "iso_country": "IT",
+            "iata_code": "BLQ"
+        },
+        {
+            "name": "Treviso-Sant'Angelo Airport",
+            "iso_country": "IT",
+            "iata_code": "TSF"
+        },
+        {
+            "name": "Verona Villafranca Airport",
+            "iso_country": "IT",
+            "iata_code": "VRN"
+        },
+        {
+            "name": "Venice Marco Polo Airport",
+            "iso_country": "IT",
+            "iata_code": "VCE"
+        },
+        {
+            "name": "Ciampino\u00e2\u0080\u0093G. B. Pastine International Airport",
+            "iso_country": "IT",
+            "iata_code": "CIA"
+        },
+        {
+            "name": "Leonardo da Vinci\u00e2\u0080\u0093Fiumicino Airport",
+            "iso_country": "IT",
+            "iata_code": "FCO"
+        },
+        {
+            "name": "Naples International Airport",
+            "iso_country": "IT",
+            "iata_code": "NAP"
+        },
+        {
+            "name": "Pisa International Airport",
+            "iso_country": "IT",
+            "iata_code": "PSA"
+        },
+        {
+            "name": "Ljubljana Jo\u00c5\u00bee Pu\u00c4\u008dnik Airport",
+            "iso_country": "SI",
+            "iata_code": "LJU"
+        },
+        {
+            "name": "V\u00c3\u00a1clav Havel Airport Prague",
+            "iso_country": "CZ",
+            "iata_code": "PRG"
+        },
+        {
+            "name": "Ben Gurion International Airport",
+            "iso_country": "IL",
+            "iata_code": "TLV"
+        },
+        {
+            "name": "Ovda International Airport",
+            "iso_country": "IL",
+            "iata_code": "VDA"
+        },
+        {
+            "name": "Malta International Airport",
+            "iso_country": "MT",
+            "iata_code": "MLA"
+        },
+        {
+            "name": "Vienna International Airport",
+            "iso_country": "AT",
+            "iata_code": "VIE"
+        },
+        {
+            "name": "Faro Airport",
+            "iso_country": "PT",
+            "iata_code": "FAO"
+        },
+        {
+            "name": "Lajes Airport",
+            "iso_country": "PT",
+            "iata_code": "TER"
+        },
+        {
+            "name": "Jo\u00c3\u00a3o Paulo II Airport",
+            "iso_country": "PT",
+            "iata_code": "PDL"
+        },
+        {
+            "name": "Francisco de S\u00c3\u00a1 Carneiro Airport",
+            "iso_country": "PT",
+            "iata_code": "OPO"
+        },
+        {
+            "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
+            "iso_country": "PT",
+            "iata_code": "LIS"
+        },
+        {
+            "name": "Sarajevo International Airport",
+            "iso_country": "BA",
+            "iata_code": "SJJ"
+        },
+        {
+            "name": "Henri Coand\u00c4\u0083 International Airport",
+            "iso_country": "RO",
+            "iata_code": "OTP"
+        },
+        {
+            "name": "Geneva Cointrin International Airport",
+            "iso_country": "CH",
+            "iata_code": "GVA"
+        },
+        {
+            "name": "Z\u00c3\u00bcrich Airport",
+            "iso_country": "CH",
+            "iata_code": "ZRH"
+        },
+        {
+            "name": "Esenbo\u00c4\u009fa International Airport",
+            "iso_country": "TR",
+            "iata_code": "ESB"
+        },
+        {
+            "name": "Adana Airport",
+            "iso_country": "TR",
+            "iata_code": "ADA"
+        },
+        {
+            "name": "Antalya International Airport",
+            "iso_country": "TR",
+            "iata_code": "AYT"
+        },
+        {
+            "name": "Gaziantep International Airport",
+            "iso_country": "TR",
+            "iata_code": "GZT"
+        },
+        {
+            "name": "Atat\u00c3\u00bcrk International Airport",
+            "iso_country": "TR",
+            "iata_code": "ISL"
+        },
+        {
+            "name": "Adnan Menderes International Airport",
+            "iso_country": "TR",
+            "iata_code": "ADB"
+        },
+        {
+            "name": "Dalaman International Airport",
+            "iso_country": "TR",
+            "iata_code": "DLM"
+        },
+        {
+            "name": "Erzurum International Airport",
+            "iso_country": "TR",
+            "iata_code": "ERZ"
+        },
+        {
+            "name": "Trabzon International Airport",
+            "iso_country": "TR",
+            "iata_code": "TZX"
+        },
+        {
+            "name": "S\u00c3\u00bcleyman Demirel International Airport",
+            "iso_country": "TR",
+            "iata_code": "ISE"
+        },
+        {
+            "name": "Milas Bodrum International Airport",
+            "iso_country": "TR",
+            "iata_code": "BJV"
+        },
+        {
+            "name": "Sabiha G\u00c3\u00b6k\u00c3\u00a7en International Airport",
+            "iso_country": "TR",
+            "iata_code": "SAW"
+        },
+        {
+            "name": "Istanbul Airport",
+            "iso_country": "TR",
+            "iata_code": "IST"
+        },
+        {
+            "name": "Skopje International Airport",
+            "iso_country": "MK",
+            "iata_code": "SKP"
+        },
+        {
+            "name": "Belgrade Nikola Tesla Airport",
+            "iso_country": "RS",
+            "iata_code": "BEG"
+        },
+        {
+            "name": "Podgorica Airport",
+            "iso_country": "ME",
+            "iata_code": "TGD"
+        },
+        {
+            "name": "M. R. \u00c5\u00a0tef\u00c3\u00a1nik Airport",
+            "iso_country": "SK",
+            "iata_code": "BTS"
+        },
+        {
+            "name": "Punta Cana International Airport",
+            "iso_country": "DO",
+            "iata_code": "PUJ"
+        },
+        {
+            "name": "Las Am\u00c3\u00a9ricas International Airport",
+            "iso_country": "DO",
+            "iata_code": "SDQ"
+        },
+        {
+            "name": "La Aurora Airport",
+            "iso_country": "GT",
+            "iata_code": "GUA"
+        },
+        {
+            "name": "Norman Manley International Airport",
+            "iso_country": "JM",
+            "iata_code": "KIN"
+        },
+        {
+            "name": "General Juan N Alvarez International Airport",
+            "iso_country": "MX",
+            "iata_code": "ACA"
+        },
+        {
+            "name": "Don Miguel Hidalgo Y Costilla International Airport",
+            "iso_country": "MX",
+            "iata_code": "GDL"
+        },
+        {
+            "name": "General Ignacio P. Garcia International Airport",
+            "iso_country": "MX",
+            "iata_code": "HMO"
+        },
+        {
+            "name": "Licenciado Benito Juarez International Airport",
+            "iso_country": "MX",
+            "iata_code": "MEX"
+        },
+        {
+            "name": "General Mariano Escobedo International Airport",
+            "iso_country": "MX",
+            "iata_code": "MTY"
+        },
+        {
+            "name": "Licenciado Gustavo D\u00c3\u00adaz Ordaz International Airport",
+            "iso_country": "MX",
+            "iata_code": "PVR"
+        },
+        {
+            "name": "Los Cabos International Airport",
+            "iso_country": "MX",
+            "iata_code": "SJD"
+        },
+        {
+            "name": "General Abelardo L. Rodr\u00c3\u00adguez International Airport",
+            "iso_country": "MX",
+            "iata_code": "TIJ"
+        },
+        {
+            "name": "Canc\u00c3\u00ban International Airport",
+            "iso_country": "MX",
+            "iata_code": "CUN"
+        },
+        {
+            "name": "Tocumen International Airport",
+            "iso_country": "PA",
+            "iata_code": "PTY"
+        },
+        {
+            "name": "Daniel Oduber Quiros International Airport",
+            "iso_country": "CR",
+            "iata_code": "LIR"
+        },
+        {
+            "name": "Monse\u00c3\u00b1or \u00c3\u0093scar Arnulfo Romero International Airport",
+            "iso_country": "SV",
+            "iata_code": "SAL"
+        },
+        {
+            "name": "Jos\u00c3\u00a9 Mart\u00c3\u00ad International Airport",
+            "iso_country": "CU",
+            "iata_code": "HAV"
+        },
+        {
+            "name": "Juan Gualberto Gomez International Airport",
+            "iso_country": "CU",
+            "iata_code": "VRA"
+        },
+        {
+            "name": "Owen Roberts International Airport",
+            "iso_country": "KY",
+            "iata_code": "GCM"
+        },
+        {
+            "name": "Lynden Pindling International Airport",
+            "iso_country": "BS",
+            "iata_code": "NAS"
+        },
+        {
+            "name": "Philip S. W. Goldson International Airport",
+            "iso_country": "BZ",
+            "iata_code": "BZE"
+        },
+        {
+            "name": "Rarotonga International Airport",
+            "iso_country": "CK",
+            "iata_code": "RAR"
+        },
+        {
+            "name": "Faa'a International Airport",
+            "iso_country": "PF",
+            "iata_code": "PPT"
+        },
+        {
+            "name": "Auckland International Airport",
+            "iso_country": "NZ",
+            "iata_code": "AKL"
+        },
+        {
+            "name": "Christchurch International Airport",
+            "iso_country": "NZ",
+            "iata_code": "CHC"
+        },
+        {
+            "name": "Wellington International Airport",
+            "iso_country": "NZ",
+            "iata_code": "WLG"
+        },
+        {
+            "name": "Bahrain International Airport",
+            "iso_country": "BH",
+            "iata_code": "BAH"
+        },
+        {
+            "name": "King Fahd International Airport",
+            "iso_country": "SA",
+            "iata_code": "DMM"
+        },
+        {
+            "name": "King Abdulaziz Air Base",
+            "iso_country": "SA",
+            "iata_code": "DHA"
+        },
+        {
+            "name": "King Abdulaziz International Airport",
+            "iso_country": "SA",
+            "iata_code": "JED"
+        },
+        {
+            "name": "Prince Mohammad Bin Abdulaziz Airport",
+            "iso_country": "SA",
+            "iata_code": "MED"
+        },
+        {
+            "name": "King Khaled International Airport",
+            "iso_country": "SA",
+            "iata_code": "RUH"
+        },
+        {
+            "name": "Imam Khomeini International Airport",
+            "iso_country": "IR",
+            "iata_code": "IKA"
+        },
+        {
+            "name": "Mehrabad International Airport",
+            "iso_country": "IR",
+            "iata_code": "THR"
+        },
+        {
+            "name": "Mashhad International Airport",
+            "iso_country": "IR",
+            "iata_code": "MHD"
+        },
+        {
+            "name": "Shiraz Shahid Dastghaib International Airport",
+            "iso_country": "IR",
+            "iata_code": "SYZ"
+        },
+        {
+            "name": "Tabriz International Airport",
+            "iso_country": "IR",
+            "iata_code": "TBZ"
+        },
+        {
+            "name": "Queen Alia International Airport",
+            "iso_country": "JO",
+            "iata_code": "AMM"
+        },
+        {
+            "name": "Kuwait International Airport",
+            "iso_country": "KW",
+            "iata_code": "KWI"
+        },
+        {
+            "name": "Beirut Rafic Hariri International Airport",
+            "iso_country": "LB",
+            "iata_code": "BEY"
+        },
+        {
+            "name": "Duqm International Airport",
+            "iso_country": "OM",
+            "iata_code": "DQM"
+        },
+        {
+            "name": "Rustaq Airport",
+            "iso_country": "OM",
+            "iata_code": "MNH"
+        },
+        {
+            "name": "Abu Dhabi International Airport",
+            "iso_country": "AE",
+            "iata_code": "AUH"
+        },
+        {
+            "name": "Dubai International Airport",
+            "iso_country": "AE",
+            "iata_code": "DXB"
+        },
+        {
+            "name": "Al Maktoum International Airport",
+            "iso_country": "AE",
+            "iata_code": "DWC"
+        },
+        {
+            "name": "Sharjah International Airport",
+            "iso_country": "AE",
+            "iata_code": "SHJ"
+        },
+        {
+            "name": "Muscat International Airport",
+            "iso_country": "OM",
+            "iata_code": "MCT"
+        },
+        {
+            "name": "Islamabad International Airport",
+            "iso_country": "PK",
+            "iata_code": "ISB"
+        },
+        {
+            "name": "Sialkot Airport",
+            "iso_country": "PK",
+            "iata_code": "SKT"
+        },
+        {
+            "name": "Baghdad International Airport",
+            "iso_country": "IQ",
+            "iata_code": "BGW"
+        },
+        {
+            "name": "Basrah International Airport",
+            "iso_country": "IQ",
+            "iata_code": "BSR"
+        },
+        {
+            "name": "Aleppo International Airport",
+            "iso_country": "SY",
+            "iata_code": "ALP"
+        },
+        {
+            "name": "Damascus International Airport",
+            "iso_country": "SY",
+            "iata_code": "DAM"
+        },
+        {
+            "name": "Bassel Al-Assad International Airport",
+            "iso_country": "SY",
+            "iata_code": "LTK"
+        },
+        {
+            "name": "Hamad International Airport",
+            "iso_country": "QA",
+            "iata_code": "DOH"
+        },
+        {
+            "name": "Fairbanks International Airport",
+            "iso_country": "US",
+            "iata_code": "FAI"
+        },
+        {
+            "name": "Ted Stevens Anchorage International Airport",
+            "iso_country": "US",
+            "iata_code": "ANC"
+        },
+        {
+            "name": "Antonio B. Won Pat International Airport",
+            "iso_country": "GU",
+            "iata_code": "GUM"
+        },
+        {
+            "name": "Laguindingan Airport",
+            "iso_country": "PH",
+            "iata_code": "CGY"
+        },
+        {
+            "name": "Daniel K Inouye International Airport",
+            "iso_country": "US",
+            "iata_code": "HNL"
+        },
+        {
+            "name": "Kinmen Airport",
+            "iso_country": "TW",
+            "iata_code": "KNH"
+        },
+        {
+            "name": "Kaohsiung International Airport",
+            "iso_country": "TW",
+            "iata_code": "KHH"
+        },
+        {
+            "name": "Taiwan Taoyuan International Airport",
+            "iso_country": "TW",
+            "iata_code": "TPE"
+        },
+        {
+            "name": "Narita International Airport",
+            "iso_country": "JP",
+            "iata_code": "NRT"
+        },
+        {
+            "name": "Kansai International Airport",
+            "iso_country": "JP",
+            "iata_code": "KIX"
+        },
+        {
+            "name": "New Chitose Airport",
+            "iso_country": "JP",
+            "iata_code": "CTS"
+        },
+        {
+            "name": "Fukuoka Airport",
+            "iso_country": "JP",
+            "iata_code": "FUK"
+        },
+        {
+            "name": "Kagoshima Airport",
+            "iso_country": "JP",
+            "iata_code": "KOJ"
+        },
+        {
+            "name": "Chubu Centrair International Airport",
+            "iso_country": "JP",
+            "iata_code": "NGO"
+        },
+        {
+            "name": "Mt. Fuji Shizuoka Airport",
+            "iso_country": "JP",
+            "iata_code": "FSZ"
+        },
+        {
+            "name": "Osaka International Airport",
+            "iso_country": "JP",
+            "iata_code": "ITM"
+        },
+        {
+            "name": "Tokyo Haneda International Airport",
+            "iso_country": "JP",
+            "iata_code": "HND"
+        },
+        {
+            "name": "Yokota Air Base",
+            "iso_country": "JP",
+            "iata_code": "OKO"
+        },
+        {
+            "name": "Muan International Airport",
+            "iso_country": "KR",
+            "iata_code": "MWX"
+        },
+        {
+            "name": "Kunsan Air Base",
+            "iso_country": "KR",
+            "iata_code": "KUV"
+        },
+        {
+            "name": "Jeju International Airport",
+            "iso_country": "KR",
+            "iata_code": "CJU"
+        },
+        {
+            "name": "Gimhae International Airport",
+            "iso_country": "KR",
+            "iata_code": "PUS"
+        },
+        {
+            "name": "Incheon International Airport",
+            "iso_country": "KR",
+            "iata_code": "ICN"
+        },
+        {
+            "name": "Osan Air Base",
+            "iso_country": "KR",
+            "iata_code": "OSN"
+        },
+        {
+            "name": "Gimpo International Airport",
+            "iso_country": "KR",
+            "iata_code": "GMP"
+        },
+        {
+            "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+            "iso_country": "KR",
+            "iata_code": "CJJ"
+        },
+        {
+            "name": "Naha Airport",
+            "iso_country": "JP",
+            "iata_code": "OKA"
+        },
+        {
+            "name": "Kadena Air Base",
+            "iso_country": "JP",
+            "iata_code": "DNA"
+        },
+        {
+            "name": "Diosdado Macapagal International Airport",
+            "iso_country": "PH",
+            "iata_code": "CRK"
+        },
+        {
+            "name": "Ninoy Aquino International Airport",
+            "iso_country": "PH",
+            "iata_code": "MNL"
+        },
+        {
+            "name": "Francisco Bangoy International Airport",
+            "iso_country": "PH",
+            "iata_code": "DVO"
+        },
+        {
+            "name": "Mactan Cebu International Airport",
+            "iso_country": "PH",
+            "iata_code": "CEB"
+        },
+        {
+            "name": "Grozny North Airport",
+            "iso_country": "RU",
+            "iata_code": "GRV"
+        },
+        {
+            "name": "Ministro Pistarini International Airport",
+            "iso_country": "AR",
+            "iata_code": "EZE"
+        },
+        {
+            "name": "Val de Cans/J\u00c3\u00balio Cezar Ribeiro International Airport",
+            "iso_country": "BR",
+            "iata_code": "BEL"
+        },
+        {
+            "name": "Presidente Juscelino Kubitschek International Airport",
+            "iso_country": "BR",
+            "iata_code": "BSB"
+        },
+        {
+            "name": "Tancredo Neves International Airport",
+            "iso_country": "BR",
+            "iata_code": "CNF"
+        },
+        {
+            "name": "Afonso Pena Airport",
+            "iso_country": "BR",
+            "iata_code": "CWB"
+        },
+        {
+            "name": "Eduardo Gomes International Airport",
+            "iso_country": "BR",
+            "iata_code": "MAO"
+        },
+        {
+            "name": "Herc\u00c3\u00adlio Luz International Airport",
+            "iso_country": "BR",
+            "iata_code": "FLN"
+        },
+        {
+            "name": "Rio Gale\u00c3\u00a3o \u00e2\u0080\u0093 Tom Jobim International Airport",
+            "iso_country": "BR",
+            "iata_code": "GIG"
+        },
+        {
+            "name": "Guarulhos - Governador Andr\u00c3\u00a9 Franco Montoro International Airport",
+            "iso_country": "BR",
+            "iata_code": "GRU"
+        },
+        {
+            "name": "Governador Alu\u00c3\u00adzio Alves International Airport",
+            "iso_country": "BR",
+            "iata_code": "NAT"
+        },
+        {
+            "name": "Congonhas Airport",
+            "iso_country": "BR",
+            "iata_code": "CGH"
+        },
+        {
+            "name": "Deputado Luiz Eduardo Magalh\u00c3\u00a3es International Airport",
+            "iso_country": "BR",
+            "iata_code": "SSA"
+        },
+        {
+            "name": "Comodoro Arturo Merino Ben\u00c3\u00adtez International Airport",
+            "iso_country": "CL",
+            "iata_code": "SCL"
+        },
+        {
+            "name": "Cotopaxi International Airport",
+            "iso_country": "EC",
+            "iata_code": "LTX"
+        },
+        {
+            "name": "Mariscal Sucre International Airport",
+            "iso_country": "EC",
+            "iata_code": "UIO"
+        },
+        {
+            "name": "El Dorado International Airport",
+            "iso_country": "CO",
+            "iata_code": "BOG"
+        },
+        {
+            "name": "Viru Viru International Airport",
+            "iso_country": "BO",
+            "iata_code": "VVI"
+        },
+        {
+            "name": "Jorge Ch\u00c3\u00a1vez International Airport",
+            "iso_country": "PE",
+            "iata_code": "LIM"
+        },
+        {
+            "name": "Alejandro Velasco Astete International Airport",
+            "iso_country": "PE",
+            "iata_code": "CUZ"
+        },
+        {
+            "name": "Carrasco International /General C L Berisso Airport",
+            "iso_country": "UY",
+            "iata_code": "MVD"
+        },
+        {
+            "name": "General Jos\u00c3\u00a9 Antonio Anzoategui International Airport",
+            "iso_country": "VE",
+            "iata_code": "BLA"
+        },
+        {
+            "name": "Sim\u00c3\u00b3n Bol\u00c3\u00advar International Airport",
+            "iso_country": "VE",
+            "iata_code": "CCS"
+        },
+        {
+            "name": "Pointe-\u00c3\u00a0-Pitre Le Raizet",
+            "iso_country": "GP",
+            "iata_code": "PTP"
+        },
+        {
+            "name": "Luis Munoz Marin International Airport",
+            "iso_country": "PR",
+            "iata_code": "SJU"
+        },
+        {
+            "name": "Enfidha - Hammamet International Airport",
+            "iso_country": "TN",
+            "iata_code": "NBE"
+        },
+        {
+            "name": "Princess Juliana International Airport",
+            "iso_country": "SX",
+            "iata_code": "SXM"
+        },
+        {
+            "name": "Almaty Airport",
+            "iso_country": "KZ",
+            "iata_code": "ALA"
+        },
+        {
+            "name": "Astana International Airport",
+            "iso_country": "KZ",
+            "iata_code": "TSE"
+        },
+        {
+            "name": "Manas International Airport",
+            "iso_country": "KG",
+            "iata_code": "FRU"
+        },
+        {
+            "name": "Sary-Arka Airport",
+            "iso_country": "KZ",
+            "iata_code": "KGF"
+        },
+        {
+            "name": "Heydar Aliyev International Airport",
+            "iso_country": "AZ",
+            "iata_code": "GYD"
+        },
+        {
+            "name": "Zvartnots International Airport",
+            "iso_country": "AM",
+            "iata_code": "EVN"
+        },
+        {
+            "name": "Tbilisi International Airport",
+            "iso_country": "GE",
+            "iata_code": "TBS"
+        },
+        {
+            "name": "Khabarovsk-Novy Airport",
+            "iso_country": "RU",
+            "iata_code": "KHV"
+        },
+        {
+            "name": "Boryspil International Airport",
+            "iso_country": "UA",
+            "iata_code": "KBP"
+        },
+        {
+            "name": "Simferopol International Airport",
+            "iso_country": "UA",
+            "iata_code": "SIP"
+        },
+        {
+            "name": "Kharkiv International Airport",
+            "iso_country": "UA",
+            "iata_code": "HRK"
+        },
+        {
+            "name": "Odessa International Airport",
+            "iso_country": "UA",
+            "iata_code": "ODS"
+        },
+        {
+            "name": "Pulkovo Airport",
+            "iso_country": "RU",
+            "iata_code": "LED"
+        },
+        {
+            "name": "Minsk National Airport",
+            "iso_country": "BY",
+            "iata_code": "MSQ"
+        },
+        {
+            "name": "Yemelyanovo Airport",
+            "iso_country": "RU",
+            "iata_code": "KJA"
+        },
+        {
+            "name": "Tolmachevo Airport",
+            "iso_country": "RU",
+            "iata_code": "OVB"
+        },
+        {
+            "name": "Platov International Airport",
+            "iso_country": "RU",
+            "iata_code": "ROV"
+        },
+        {
+            "name": "Sochi International Airport",
+            "iso_country": "RU",
+            "iata_code": "AER"
+        },
+        {
+            "name": "Koltsovo Airport",
+            "iso_country": "RU",
+            "iata_code": "SVX"
+        },
+        {
+            "name": "Ashgabat International Airport",
+            "iso_country": "TM",
+            "iata_code": "ASB"
+        },
+        {
+            "name": "Tashkent International Airport",
+            "iso_country": "UZ",
+            "iata_code": "TAS"
+        },
+        {
+            "name": "Zhukovsky International Airport",
+            "iso_country": "RU",
+            "iata_code": "ZIA"
+        },
+        {
+            "name": "Domodedovo International Airport",
+            "iso_country": "RU",
+            "iata_code": "DME"
+        },
+        {
+            "name": "Sheremetyevo International Airport",
+            "iso_country": "RU",
+            "iata_code": "SVO"
+        },
+        {
+            "name": "Vnukovo International Airport",
+            "iso_country": "RU",
+            "iata_code": "VKO"
+        },
+        {
+            "name": "Kazan International Airport",
+            "iso_country": "RU",
+            "iata_code": "KZN"
+        },
+        {
+            "name": "Ufa International Airport",
+            "iso_country": "RU",
+            "iata_code": "UFA"
+        },
+        {
+            "name": "Kurumoch International Airport",
+            "iso_country": "RU",
+            "iata_code": "KUF"
+        },
+        {
+            "name": "Chhatrapati Shivaji International Airport",
+            "iso_country": "IN",
+            "iata_code": "BOM"
+        },
+        {
+            "name": "Dabolim Airport",
+            "iso_country": "IN",
+            "iata_code": "GOI"
+        },
+        {
+            "name": "Bandaranaike International Colombo Airport",
+            "iso_country": "LK",
+            "iata_code": "CMB"
+        },
+        {
+            "name": "Mattala Rajapaksa International Airport",
+            "iso_country": "LK",
+            "iata_code": "HRI"
+        },
+        {
+            "name": "Phnom Penh International Airport",
+            "iso_country": "KH",
+            "iata_code": "PNH"
+        },
+        {
+            "name": "Siem Reap International Airport",
+            "iso_country": "KH",
+            "iata_code": "REP"
+        },
+        {
+            "name": "Netaji Subhash Chandra Bose International Airport",
+            "iso_country": "IN",
+            "iata_code": "CCU"
+        },
+        {
+            "name": "Hazrat Shahjalal International Airport",
+            "iso_country": "BD",
+            "iata_code": "DAC"
+        },
+        {
+            "name": "Hong Kong International Airport",
+            "iso_country": "HK",
+            "iata_code": "HKG"
+        },
+        {
+            "name": "Sri Guru Ram Dass Jee International Airport",
+            "iso_country": "IN",
+            "iata_code": "ATQ"
+        },
+        {
+            "name": "Indira Gandhi International Airport",
+            "iso_country": "IN",
+            "iata_code": "DEL"
+        },
+        {
+            "name": "Macau International Airport",
+            "iso_country": "MO",
+            "iata_code": "MFM"
+        },
+        {
+            "name": "Tribhuvan International Airport",
+            "iso_country": "NP",
+            "iata_code": "KTM"
+        },
+        {
+            "name": "Kempegowda International Airport",
+            "iso_country": "IN",
+            "iata_code": "BLR"
+        },
+        {
+            "name": "Cochin International Airport",
+            "iso_country": "IN",
+            "iata_code": "COK"
+        },
+        {
+            "name": "Calicut International Airport",
+            "iso_country": "IN",
+            "iata_code": "CCJ"
+        },
+        {
+            "name": "Rajiv Gandhi International Airport",
+            "iso_country": "IN",
+            "iata_code": "HYD"
+        },
+        {
+            "name": "Chennai International Airport",
+            "iso_country": "IN",
+            "iata_code": "MAA"
+        },
+        {
+            "name": "Trivandrum International Airport",
+            "iso_country": "IN",
+            "iata_code": "TRV"
+        },
+        {
+            "name": "Mal\u00c3\u00a9 International Airport",
+            "iso_country": "MV",
+            "iata_code": "MLE"
+        },
+        {
+            "name": "Don Mueang International Airport",
+            "iso_country": "TH",
+            "iata_code": "DMK"
+        },
+        {
+            "name": "Suvarnabhumi Airport",
+            "iso_country": "TH",
+            "iata_code": "BKK"
+        },
+        {
+            "name": "Chiang Mai International Airport",
+            "iso_country": "TH",
+            "iata_code": "CNX"
+        },
+        {
+            "name": "Phuket International Airport",
+            "iso_country": "TH",
+            "iata_code": "HKT"
+        },
+        {
+            "name": "Da Nang International Airport",
+            "iso_country": "VN",
+            "iata_code": "DAD"
+        },
+        {
+            "name": "Noi Bai International Airport",
+            "iso_country": "VN",
+            "iata_code": "HAN"
+        },
+        {
+            "name": "Tan Son Nhat International Airport",
+            "iso_country": "VN",
+            "iata_code": "SGN"
+        },
+        {
+            "name": "Mandalay International Airport",
+            "iso_country": "MM",
+            "iata_code": "MDL"
+        },
+        {
+            "name": "Yangon International Airport",
+            "iso_country": "MM",
+            "iata_code": "RGN"
+        },
+        {
+            "name": "Hasanuddin International Airport",
+            "iso_country": "ID",
+            "iata_code": "UPG"
+        },
+        {
+            "name": "Ngurah Rai (Bali) International Airport",
+            "iso_country": "ID",
+            "iata_code": "DPS"
+        },
+        {
+            "name": "Sentani International Airport",
+            "iso_country": "ID",
+            "iata_code": "DJJ"
+        },
+        {
+            "name": "Juanda International Airport",
+            "iso_country": "ID",
+            "iata_code": "SUB"
+        },
+        {
+            "name": "Dominique Edward Osok Airport",
+            "iso_country": "ID",
+            "iata_code": "SOQ"
+        },
+        {
+            "name": "Brunei International Airport",
+            "iso_country": "BN",
+            "iata_code": "BWN"
+        },
+        {
+            "name": "Soekarno-Hatta International Airport",
+            "iso_country": "ID",
+            "iata_code": "CGK"
+        },
+        {
+            "name": "Kualanamu International Airport",
+            "iso_country": "ID",
+            "iata_code": "KNO"
+        },
+        {
+            "name": "Kuala Lumpur International Airport",
+            "iso_country": "MY",
+            "iata_code": "KUL"
+        },
+        {
+            "name": "Singapore Changi Airport",
+            "iso_country": "SG",
+            "iata_code": "SIN"
+        },
+        {
+            "name": "Brisbane International Airport",
+            "iso_country": "AU",
+            "iata_code": "BNE"
+        },
+        {
+            "name": "Melbourne International Airport",
+            "iso_country": "AU",
+            "iata_code": "MEL"
+        },
+        {
+            "name": "Yantai Penglai International Airport",
+            "iso_country": "CN",
+            "iata_code": "YNT"
+        },
+        {
+            "name": "Adelaide International Airport",
+            "iso_country": "AU",
+            "iata_code": "ADL"
+        },
+        {
+            "name": "Perth International Airport",
+            "iso_country": "AU",
+            "iata_code": "PER"
+        },
+        {
+            "name": "Canberra International Airport",
+            "iso_country": "AU",
+            "iata_code": "CBR"
+        },
+        {
+            "name": "Sydney Kingsford Smith International Airport",
+            "iso_country": "AU",
+            "iata_code": "SYD"
+        },
+        {
+            "name": "Beijing Capital International Airport",
+            "iso_country": "CN",
+            "iata_code": "PEK"
+        },
+        {
+            "name": "Beijing Daxing International Airport",
+            "iso_country": "CN",
+            "iata_code": "PKX"
+        },
+        {
+            "name": "Baita International Airport",
+            "iso_country": "CN",
+            "iata_code": "HET"
+        },
+        {
+            "name": "Beijing Nanyuan Airport",
+            "iso_country": "CN",
+            "iata_code": "NAY"
+        },
+        {
+            "name": "Tianjin Binhai International Airport",
+            "iso_country": "CN",
+            "iata_code": "TSN"
+        },
+        {
+            "name": "Taiyuan Wusu Airport",
+            "iso_country": "CN",
+            "iata_code": "TYN"
+        },
+        {
+            "name": "Guangzhou Baiyun International Airport",
+            "iso_country": "CN",
+            "iata_code": "CAN"
+        },
+        {
+            "name": "Changsha Huanghua International Airport",
+            "iso_country": "CN",
+            "iata_code": "CSX"
+        },
+        {
+            "name": "Guilin Liangjiang International Airport",
+            "iso_country": "CN",
+            "iata_code": "KWL"
+        },
+        {
+            "name": "Nanning Wuxu Airport",
+            "iso_country": "CN",
+            "iata_code": "NNG"
+        },
+        {
+            "name": "Shenzhen Bao'an International Airport",
+            "iso_country": "CN",
+            "iata_code": "SZX"
+        },
+        {
+            "name": "Zhengzhou Xinzheng International Airport",
+            "iso_country": "CN",
+            "iata_code": "CGO"
+        },
+        {
+            "name": "Wuhan Tianhe International Airport",
+            "iso_country": "CN",
+            "iata_code": "WUH"
+        },
+        {
+            "name": "Haikou Meilan International Airport",
+            "iso_country": "CN",
+            "iata_code": "HAK"
+        },
+        {
+            "name": "Sanya Phoenix International Airport",
+            "iso_country": "CN",
+            "iata_code": "SYX"
+        },
+        {
+            "name": "Xi'an Xianyang International Airport",
+            "iso_country": "CN",
+            "iata_code": "XIY"
+        },
+        {
+            "name": "Ulaanbaatar International Airport",
+            "iso_country": "MN",
+            "iata_code": "UBN"
+        },
+        {
+            "name": "Buyant-Ukhaa International Airport",
+            "iso_country": "MN",
+            "iata_code": "ULN"
+        },
+        {
+            "name": "Kunming Changshui International Airport",
+            "iso_country": "CN",
+            "iata_code": "KMG"
+        },
+        {
+            "name": "Xiamen Gaoqi International Airport",
+            "iso_country": "CN",
+            "iata_code": "XMN"
+        },
+        {
+            "name": "Fuzhou Changle International Airport",
+            "iso_country": "CN",
+            "iata_code": "FOC"
+        },
+        {
+            "name": "Hangzhou Xiaoshan International Airport",
+            "iso_country": "CN",
+            "iata_code": "HGH"
+        },
+        {
+            "name": "Yaoqiang Airport",
+            "iso_country": "CN",
+            "iata_code": "TNA"
+        },
+        {
+            "name": "Ningbo Lishe International Airport",
+            "iso_country": "CN",
+            "iata_code": "NGB"
+        },
+        {
+            "name": "Nanjing Lukou Airport",
+            "iso_country": "CN",
+            "iata_code": "NKG"
+        },
+        {
+            "name": "Shanghai Pudong International Airport",
+            "iso_country": "CN",
+            "iata_code": "PVG"
+        },
+        {
+            "name": "Shanghai Hongqiao International Airport",
+            "iso_country": "CN",
+            "iata_code": "SHA"
+        },
+        {
+            "name": "Wenzhou Longwan International Airport",
+            "iso_country": "CN",
+            "iata_code": "WNZ"
+        },
+        {
+            "name": "Chongqing Jiangbei International Airport",
+            "iso_country": "CN",
+            "iata_code": "CKG"
+        },
+        {
+            "name": "Longdongbao Airport",
+            "iso_country": "CN",
+            "iata_code": "KWE"
+        },
+        {
+            "name": "Chengdu Shuangliu International Airport",
+            "iso_country": "CN",
+            "iata_code": "CTU"
+        },
+        {
+            "name": "\u00c3\u009cr\u00c3\u00bcmqi Diwopu International Airport",
+            "iso_country": "CN",
+            "iata_code": "URC"
+        },
+        {
+            "name": "Taiping Airport",
+            "iso_country": "CN",
+            "iata_code": "HRB"
+        },
+        {
+            "name": "Zhoushuizi Airport",
+            "iso_country": "CN",
+            "iata_code": "DLC"
+        },
+        {
+            "name": "Taoxian Airport",
+            "iso_country": "CN",
+            "iata_code": "SHE"
+        }
+    ]
+}
