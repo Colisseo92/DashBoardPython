@@ -259,7 +259,7 @@ sorted_file = {"data":[]}
 with open('new_airports.json',encoding="utf-8") as file:
     airports_data = json.load(file)
 
-with open('airport.json',encoding="utf-8") as file:
+with open('airport_start.json', encoding="utf-8") as file:
     a = json.load(file)
     destination_airports = a['data']
 
@@ -300,6 +300,9 @@ for destination in flights_infos:
     if destination['to'] not in country_airports:
         if destination['to'] in airports_iata:
             sorted_file['data'].append(destination)
+
+with open('new_result.json','w',encoding="utf-8") as outfile:
+    json.dump(sorted_file,outfile, ensure_ascii=False, indent=4)
 
 print(len(sorted_file['data']))
 print(len(flights_infos))

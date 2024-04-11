@@ -90,7 +90,7 @@ def getWebSiteInfo(airport: str):
 def main():
     start = time.time()
     subdirectory = "results"
-    airports_list = getAirportsList("airport.json")
+    airports_list = getAirportsList("airport_start.json")
     for i in range(486,1619):
         data_list = []
         for airport in airports_list[i * 8:(i + 1) * 8]:

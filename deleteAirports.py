@@ -7,7 +7,7 @@ with open('results/result.json') as file:
     data = json.load(file)
     data = data['data']
 
-with open('airport.json') as file:
+with open('airport_start.json') as file:
     a = json.load(file)
     current_airport = a['data']
 
@@ -17,7 +17,18 @@ for destination in data:
         if destination['from'] not in sorted_airport:
             sorted_airport.append(destination['from'])
 
-new_airports = [airport for airport in current_airport if airport['iata_code'] in sorted_airport]
+new_airports = []
+added = []
+for airport in current_airport:
+    if airport['iata_code'] in sorted_airport:
+        if airport['iata_code'] not in added:
+            new_airports.append(airport)
+            added.append(airport['iata_code'])
+
+print(len(new_airports))
+print(len(sorted_airport))
+
+print(sorted_airport)
 
 with open('new_airports.json','w',encoding="utf-8") as outfile:
     json.dump(new_airports,outfile, ensure_ascii=False, indent=4)
